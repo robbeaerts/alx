@@ -285,6 +285,7 @@ siege_equipment 	sap_point 10
 
 character	Alexander, named character, leader, age 20, , x 16, y 49, portrait alexander, strat_model ALEX_alexander, battle_model ALEX_alexander_general_battle 
 traits Drink 1 , Arse 1 , Brave 1 , TacticalSkill 1 , CounterSpy 1 , Handsome 1 , TouchedByTheGods 1 , Intelligent 1 , Factionleader 1 , Immortal 1 
+ancillaries bucephalus
 army
 unit		alexander				exp 1 armour 2 weapon_lvl 0
 unit		hypaspists				exp 0 armour 0 weapon_lvl 0
