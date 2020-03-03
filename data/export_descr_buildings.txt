@@ -350,7 +350,6 @@ building equestrian
                 recruit "prodromoi"  1  requires factions { macedon, } 
                 recruit "auxiliary thracian cavalry"  1  requires factions { macedon, } 
                 recruit "allied cavalry"  0  requires factions { macedon, } 
-                recruit "greek heavy cavalry"  0  requires factions { macedon, } 
                 stage_races 1 requires factions { roman,}
             }
             construction  6 
@@ -375,7 +374,6 @@ building equestrian
                 recruit "prodromoi"  2  requires factions { macedon, } 
                 recruit "auxiliary thracian cavalry"  2  requires factions { macedon, } 
                 recruit "allied cavalry"  1  requires factions { macedon, } 
-                recruit "greek heavy cavalry"  1  requires factions { macedon, } 
                 recruit "companion cavalry"  0  requires factions { macedon, } 
                 stage_races 2 requires factions { roman,}
             }

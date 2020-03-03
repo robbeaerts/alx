@@ -115,7 +115,7 @@ dictionary       barb_peasant_slave      ; Barbarian Peasants
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_peasant, 60, 0, 0.7
+soldier          barb_peasant, 15, 0, 0.7
 attributes       sea_faring, hide_improved_forest
 formation        1.2, 1.8, 2.4, 2.4, 6, horde
 stat_health      1, 0
@@ -139,7 +139,7 @@ dictionary       barb_infantry_slave      ; Warband
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_infantry, 60, 0, 1.2
+soldier          barb_infantry, 30, 0, 1.2
 attributes       sea_faring, hide_improved_forest, warcry
 formation        1.2, 1.2, 2.4, 2.4, 5, square
 stat_health      1, 0
@@ -164,7 +164,7 @@ dictionary       warband_falx_dacian      ; Falxmen
 category         infantry
 class            heavy
 voice_type       Heavy_1
-soldier          warband_falx, 40, 0, 1.5
+soldier          warband_falx, 20, 0, 1.5
 officer          barb_standard
 attributes       sea_faring, hide_improved_forest, warcry
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -191,7 +191,7 @@ dictionary       naked_fanatics_dacian      ; Naked Fanatics
 category         infantry
 class            heavy
 voice_type       Light_1
-soldier          barb_naked_fanatic, 40, 0, 1.5
+soldier          barb_naked_fanatic, 25, 0, 1.5
 attributes       sea_faring, hide_improved_forest, hardy, warcry, no_custom
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -216,7 +216,7 @@ dictionary       naked_fanatics_gaul      ; Naked Fanatics
 category         infantry
 class            heavy
 voice_type       Light_1
-soldier          barb_naked_fanatic, 40, 0, 1.5
+soldier          barb_naked_fanatic, 25, 0, 1.5
 attributes       sea_faring, hide_improved_forest, hardy, warcry, no_custom
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -241,7 +241,7 @@ dictionary       naked_fanatics_german      ; Naked Fanatics
 category         infantry
 class            heavy
 voice_type       Light_1
-soldier          barb_naked_fanatic, 40, 0, 1.5
+soldier          barb_naked_fanatic, 25, 0, 1.5
 attributes       sea_faring, hide_improved_forest, hardy, warcry, no_custom
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -266,7 +266,7 @@ dictionary       naked_fanatics_slave      ; Naked Fanatics
 category         infantry
 class            heavy
 voice_type       Light_1
-soldier          barb_naked_fanatic, 40, 0, 1.5
+soldier          barb_naked_fanatic, 25, 0, 1.5
 attributes       sea_faring, hide_improved_forest, hardy, warcry, no_custom
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -291,7 +291,7 @@ dictionary       barb_chieftain_cavalry_early_dacian      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_noble_cavalry, 12, 0, 1
+soldier          barb_noble_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, no_custom
@@ -318,7 +318,7 @@ dictionary       barb_chieftain_cavalry_early_gaul      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_noble_cavalry, 12, 0, 1
+soldier          barb_noble_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, no_custom
@@ -345,7 +345,7 @@ dictionary       barb_chieftain_cavalry_early_german      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_noble_cavalry, 12, 0, 1
+soldier          barb_noble_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, no_custom
@@ -372,7 +372,7 @@ dictionary       barb_chieftain_cavalry_early_scythian      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_noble_cavalry, 12, 0, 1
+soldier          barb_noble_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, no_custom
@@ -399,7 +399,7 @@ dictionary       barb_chieftain_cavalry_early_slave      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_noble_cavalry, 12, 0, 1
+soldier          barb_noble_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, no_custom
@@ -426,7 +426,7 @@ dictionary       barb_chieftain_cavalry_dacian      ; Barbarian Chosen Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_gothic_cavalry, 12, 0, 1
+soldier          barb_gothic_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade, no_custom
@@ -453,7 +453,7 @@ dictionary       barb_chieftain_cavalry_gaul      ; Barbarian Chosen Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_gothic_cavalry, 12, 0, 1
+soldier          barb_gothic_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade, no_custom
@@ -480,7 +480,7 @@ dictionary       barb_chieftain_cavalry_german      ; Barbarian Chosen Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_gothic_cavalry, 12, 0, 1
+soldier          barb_gothic_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade, no_custom
@@ -563,7 +563,7 @@ dictionary       carthaginian_generals_cavalry_early      ; General's Bodyguard
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          carthaginian_medium_cavalry, 12, 0, 1
+soldier          carthaginian_medium_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -592,7 +592,7 @@ dictionary       carthaginian_generals_cavalry      ; General's Armoured Bodygua
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          carthaginian_royal_cavalry, 12, 0, 1
+soldier          carthaginian_royal_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade, no_custom
@@ -621,7 +621,7 @@ dictionary       east_peasant      ; Peasants
 category         infantry
 class            light
 voice_type       Light_1
-soldier          east_peasant, 60, 0, 0.7
+soldier          east_peasant, 30, 0, 0.7
 attributes       sea_faring, hide_forest, can_sap
 formation        1.2, 1.8, 2.4, 2.4, 6, horde
 stat_health      1, 0
@@ -650,7 +650,7 @@ dictionary       east_slinger      ; Slingers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          persian_slinger, 40, 0, 0.8
+soldier          persian_slinger, 30, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -721,39 +721,12 @@ stat_cost        1, 290, 170, 30, 50, 290
 ownership        parthia
  
  
-;type             east persian cavalry
-;dictionary       eat_persian_cavalry      ; Persian Cavalry
-;category         cavalry
-;class            missile
-;voice_type       Medium_1
-;soldier          east_cataphract_archer, 27, 0, 1
-;mount            heavy horse
-;mount_effect     elephant -8, camel -4
-;attributes       sea_faring, hide_forest, cantabrian_circle, no_custom
-;formation        1.5, 4, 3, 6, 4, square
-;stat_health      1, 0
-;stat_pri         7, 3, arrow, 110, 30, missile, archery, piercing, none, 25 ,1
-;stat_pri_attr    no
-;stat_sec         9, 5, no, 0, 0, melee, simple, piercing, sword, 25 ,1
-;stat_sec_attr    no
-;stat_pri_armour  6, 4, 0, metal
-;stat_sec_armour  0, 1, flesh
-;stat_heat        -1
-;stat_ground      0, 1, -6, -1
-;stat_mental      8, normal, untrained
-;stat_charge_dist 40
-;stat_fire_delay  0
-;stat_food        60, 300
-;stat_cost        1, 790, 140, 80, 120, 790
-;ownership        parthia
- 
- 
 type             east elephant
 dictionary       east_elephant_african      ; War Elephants
 category         cavalry
 class            heavy
 voice_type       Medium_1
-soldier          east_elephant_archer, 18, 6, 1
+soldier          east_elephant_archer, 6, 2, 1
 mount            elephant african
 mount_effect     horse +4, chariot +8, camel +4
 attributes       sea_faring, can_run_amok, frighten_foot, frighten_mounted
@@ -866,8 +839,7 @@ dictionary       egyptian_generals_bodyguard      ; Egyptian Cavalry General
 category         cavalry
 class            heavy
 voice_type       General_1
-;;;		Removed for Alexander	soldier          egyptian_cleruch, 12, 0, 1
-soldier          ALEX_indian_medium_cavalry, 12, 6, 0.8
+soldier          ALEX_indian_medium_cavalry, 6, 6, 0.8
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade
@@ -894,7 +866,7 @@ dictionary       greek_peasant      ; Peasants
 category         infantry
 class            light
 voice_type       Light_1
-soldier          greek_peasant, 60, 0, 0.7
+soldier          greek_peasant, 15, 0, 0.7
 attributes       sea_faring, hide_forest, can_sap
 formation        1.2, 1.8, 2.4, 2.4, 6, horde
 stat_health      1, 0
@@ -920,7 +892,7 @@ dictionary       greek_hoplite_elite      ; Armoured Hoplites
 category         infantry
 class            spearmen
 voice_type       Heavy_1
-soldier          greek_armoured_hoplite, 40, 0, 1.3
+soldier          greek_armoured_hoplite, 20, 0, 1.3
 ;officer          greek_standard
 attributes       sea_faring, hide_forest, can_sap, hardy
 formation        1, 1, 2, 2, 5, square, phalanx
@@ -946,7 +918,7 @@ dictionary       greek_hoplite_spartan      ; Spartan Hoplites
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          greek_hoplite_spartan_pylos, 40, 0, 1.3
+soldier          greek_hoplite_spartan_pylos, 15, 0, 1.3
 attributes       sea_faring, hide_forest, can_sap, very_hardy
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      2, 0
@@ -970,7 +942,7 @@ dictionary       greek_cavalry      ; Militia Cavalry
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          greek_javelin_cavalry, 27, 0, 1
+soldier          greek_javelin_cavalry, 10, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, cantabrian_circle
@@ -997,7 +969,7 @@ dictionary       greek_medium_cavalry      ; Greek Cavalry
 category         cavalry
 class            light
 voice_type       Medium_1
-soldier          greek_medium_cavalry, 27, 0, 1
+soldier          greek_medium_cavalry, 10, 0, 1
 mount            medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest
@@ -1017,33 +989,6 @@ stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 330, 120, 40, 50, 330
 ownership        greek_cities, slave
-
-
-type             greek heavy cavalry
-dictionary       greek_heavy_cavalry      ; Macedonian Cavalry
-category         cavalry
-class            heavy
-voice_type       Heavy_1
-soldier          ALEX_royal_squadron, 27, 0, 1
-mount            heavy horse
-mount_effect     elephant -8, camel -4
-attributes       sea_faring, hide_forest, hardy
-formation        1.5, 4, 3, 6, 4, square, wedge
-stat_health      1, 0
-stat_pri         8, 6, no, 0, 0, melee, simple, piercing, spear, 25 ,1
-stat_pri_attr    no
-stat_sec         9, 5, no, 0, 0, melee, simple, piercing, sword, 25 ,1
-stat_sec_attr    no
-stat_pri_armour  11, 6, 0, metal
-stat_sec_armour  0, 1, flesh
-stat_heat        2
-stat_ground      0, 0, -6, 0
-stat_mental      8, normal, trained
-stat_charge_dist 40
-stat_fire_delay  0
-stat_food        60, 300
-stat_cost        1, 690, 160, 70, 110, 690
-ownership        macedon
  
  
 type             greek general's guard cavalry early
@@ -1051,8 +996,7 @@ dictionary       greek_generals_guard_cavalry_early      ; General's Bodyguard
 category         cavalry
 class            heavy
 voice_type       General_1
-;;;	soldier          greek_medium_cavalry, 12, 0, 1
-soldier          ALEX_companion_cavalry, 12, 0, 1
+soldier          ALEX_companion_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1079,7 +1023,7 @@ dictionary       greek_generals_guard_cavalry      ; General's Armoured Bodyguar
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          greek_heavy_cavalry, 12, 0, 1
+soldier          greek_heavy_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade, no_custom
@@ -1107,7 +1051,7 @@ dictionary       thracian_generals_guard_cavalry_early      ; General's Bodyguar
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          greek_medium_cavalry, 12, 0, 1
+soldier          greek_medium_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1135,7 +1079,7 @@ dictionary       thracian_generals_guard_cavalry      ; General's Armoured Bodyg
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_gothic_cavalry, 12, 0, 1
+soldier          barb_gothic_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade
@@ -1164,7 +1108,7 @@ dictionary       roman_generals_guard_cavalry_early      ; Roman General
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          roman_medium_cavalry, 12, 0, 1
+soldier          roman_medium_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1192,7 +1136,7 @@ dictionary       roman_generals_guard_cavalry      ; Roman Armoured General
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          roman_praetorian_cavalry, 12, 0, 1
+soldier          roman_praetorian_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade
@@ -1219,7 +1163,7 @@ dictionary       generic_rebel_general      ; Rebel General
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          roman_equites, 12, 0, 1
+soldier          roman_equites, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1246,7 +1190,7 @@ dictionary       eastern_rebel_generals      ; Rebel General
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          east_heavy_cavalry, 12, 0, 1
+soldier          east_heavy_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1273,7 +1217,7 @@ dictionary       barb_rebel_general      ; Rebel General
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          barb_cavalry, 12, 0, 1
+soldier          barb_cavalry, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -1300,7 +1244,7 @@ dictionary       merc_peltast      ; Mercenary Peltasts
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          greek_heavy_peltast_merc, 40, 0, 0.8
+soldier          greek_heavy_peltast_merc, 20, 0, 0.8
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_improved_forest, hide_long_grass, can_sap, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 3, square
@@ -1328,8 +1272,7 @@ dictionary       merc_illyrian      ; Illyrian Mercenaries
 category         infantry
 class            missile
 voice_type       Medium_1
-;;;		soldier          greek_heavy_peltast_merc, 40, 0, 1
-soldier          ALEX_merc_illyrian, 40, 0, 1
+soldier          ALEX_merc_illyrian, 25, 0, 1
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_improved_forest, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -1355,7 +1298,7 @@ dictionary       merc_thracian      ; Thracian Mercenaries
 category         infantry
 class            light
 voice_type       Medium_1
-soldier          greek_thracoan, 40, 0, 1.2
+soldier          greek_thracoan, 20, 0, 1.2
 attributes       sea_faring, hide_improved_forest, mercenary_unit, warcry
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -1380,7 +1323,7 @@ dictionary       merc_sarmatian_cavalry      ; Sarmatian Mercenaries
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          barb_scythian_lancer, 27, 0, 1
+soldier          barb_scythian_lancer, 15, 0, 1
 mount			 heavy horse alex macedonian merc	;;;	heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, mercenary_unit
@@ -1407,7 +1350,7 @@ dictionary       merc_horse_archers      ; Scythian Mercenaries
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          barb_horse_archer_merc, 27, 0, 1
+soldier          barb_horse_archer_merc, 20, 0, 1
 mount			 light horse alex barbarian merc	;;;	light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, cantabrian_circle, mercenary_unit
@@ -1434,7 +1377,7 @@ dictionary       merc_eastern_infantry      ; Eastern Mercenaries
 category         infantry
 class            spearmen
 voice_type       Light_1
-soldier          persian_sparabara_merc, 60, 0, 1
+soldier          persian_sparabara_merc, 30, 0, 1
 attributes       sea_faring, hide_forest, can_sap, mercenary_unit
 formation        1, 1, 2, 2, 5, square
 stat_health      1, 0
@@ -1459,7 +1402,7 @@ dictionary       merc_rhodian_slingers      ; Rhodian Slingers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          greek_slinger_merc, 40, 0, 0.8
+soldier          greek_slinger_merc, 15, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -1484,7 +1427,7 @@ dictionary       merc_cretan_archers      ; Cretan Archers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          greek_archer_merc, 40, 0, 0.8
+soldier          greek_archer_merc, 20, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit, no_custom
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -1509,7 +1452,7 @@ dictionary       merc_greek_hoplites      ; Mercenary Hoplites
 category         infantry
 class            spearmen
 voice_type       Light_1
-soldier          ALEX_hoplites, 40, 0, 1	;;;		greek_hoplite_merc
+soldier          ALEX_hoplites, 25, 0, 1	;;;		greek_hoplite_merc
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      1, 0
@@ -1534,7 +1477,7 @@ dictionary       merc_libyan_infantry      ; Libyan Mercenaries
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          egyptian_peltast_merc, 40, 0, 0.8
+soldier          egyptian_peltast_merc, 20, 0, 0.8
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_improved_forest, hide_long_grass, can_sap, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
@@ -1560,7 +1503,7 @@ dictionary       merc_numidian_cavalry      ; Numidian Mercenaries
 category         cavalry
 class            missile
 voice_type       Heavy_1
-soldier          carthage_numidian_cavalry_merc, 27, 0, 1
+soldier          carthage_numidian_cavalry_merc, 15, 0, 1
 mount			 light horse alex macedonian merc	;;;	light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, cantabrian_circle, mercenary_unit
@@ -1587,7 +1530,7 @@ dictionary       merc_arab_cavalry      ; Arab Cavalry
 category         cavalry
 class            light
 voice_type       Heavy_1
-soldier          east_bedouin, 27, 0, 1
+soldier          east_bedouin, 15, 0, 1
 mount			 light horse alex macedonian merc	;;;		light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, mercenary_unit, no_custom
@@ -1614,7 +1557,7 @@ dictionary       merc_barbarian_infantry      ; Barbarian Mercenaries
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_infantry_merc, 60, 0, 1.2
+soldier          barb_infantry_merc, 30, 0, 1.2
 attributes       sea_faring, hide_improved_forest, mercenary_unit, warcry
 formation        1.2, 1.2, 2.4, 2.4, 5, square
 stat_health      1, 0
@@ -1639,7 +1582,7 @@ dictionary       merc_barbarian_cavalry      ; Barbarian Cavalry Mercenaries
 category         cavalry
 class            light
 voice_type       Heavy_1
-soldier          barb_cavalry_merc, 27, 0, 1
+soldier          barb_cavalry_merc, 15, 0, 1
 mount			 medium horse alex macedonian merc	;;;	medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, mercenary_unit
@@ -1888,8 +1831,7 @@ dictionary       alexander
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          ALEX_alexander, 60, 0, 1
-;;;		soldier          greek_heavy_cavalry, 60, 0, 1
+soldier          ALEX_alexander, 32, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade
@@ -1921,7 +1863,7 @@ dictionary       allied_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_allied_cavalry, 27, 0, 1
+soldier          ALEX_allied_cavalry, 10, 0, 1
 mount			 medium horse alex macedonian merc	;;;	medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, mercenary_unit
@@ -1949,7 +1891,7 @@ dictionary       allied_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_allied_cavalry, 27, 0, 1
+soldier          ALEX_allied_cavalry, 10, 0, 1
 mount            medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy
@@ -1979,7 +1921,7 @@ dictionary       auxiliary_thracian_cavalry
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          ALEX_auxiliary_thracian_cavalry, 27, 0, 1
+soldier          ALEX_auxiliary_thracian_cavalry, 10, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, cantabrian_circle
@@ -2012,8 +1954,7 @@ dictionary       barbarian_archer_warband
 category         infantry
 class            missile
 voice_type       Light_1
-;;;		soldier          barb_archer, 40, 0, 0.9
-soldier          ALEX_barbarian_archer_warband, 40, 0, 0.9
+soldier          ALEX_barbarian_archer_warband, 20, 0, 0.9
 attributes       sea_faring, hide_improved_forest, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 3, square
 stat_health      1, 0
@@ -2043,8 +1984,7 @@ dictionary       barbarian_cavalry
 category         cavalry
 class            light
 voice_type       Medium_1
-;;;		soldier          barb_cavalry, 27, 0, 1
-soldier          ALEX_barbarian_cavalry, 27, 0, 1
+soldier          ALEX_barbarian_cavalry, 15, 0, 1
 mount			 medium horse alex barbarian merc	;;;		medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, mercenary_unit
@@ -2072,8 +2012,7 @@ dictionary       barbarian_cavalry
 category         cavalry
 class            light
 voice_type       Medium_1
-;;;		soldier          barb_cavalry, 27, 0, 1
-soldier          ALEX_barbarian_cavalry, 27, 0, 1
+soldier          ALEX_barbarian_cavalry, 15, 0, 1
 mount            medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest	;;;		, mercenary_unit
@@ -2104,9 +2043,7 @@ dictionary       barbarian_chosen_swordsmen
 category         infantry
 class            heavy
 voice_type       Light_1
-;;;		soldier          warband_axe, 40, 0, 1.2
-soldier          ALEX_barbarian_sicklemen, 40, 0, 1.2
-;;;		officer          barb_standard
+soldier          ALEX_barbarian_sicklemen, 20, 0, 1.2
 attributes       sea_faring, hide_improved_forest, warcry
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -2134,11 +2071,10 @@ dictionary       barbarian_horse_archers
 category         cavalry
 class            missile
 voice_type       Medium_1
-;;;		soldier          ALEX_dahae_mounted_archers, 27, 0, 1
-soldier          ALEX_barbarian_horse_archers, 27, 0, 1
+soldier          ALEX_barbarian_horse_archers, 20, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
-attributes       sea_faring, hide_forest, hardy, cantabrian_circle		;;;		mercenary_unit
+attributes       sea_faring, hide_forest, hardy, cantabrian_circle
 formation        3, 4, 6, 6, 4, square
 stat_health      1, 0
 stat_pri         7, 1, arrow, 100, 40, missile, archery, piercing, none, 25 ,1
@@ -2165,8 +2101,7 @@ dictionary       barbarian_naked_fanatics     ; Naked Fanatics / Barbarian sword
 category         infantry
 class            heavy
 voice_type       Light_1
-;;;		soldier          barb_naked_fanatic, 40, 0, 1.5
-soldier			 ALEX_barbarian_naked_fanatics, 40, 0, 1.5
+soldier			 ALEX_barbarian_naked_fanatics, 25, 0, 1.5
 attributes       sea_faring, hide_improved_forest, hardy, warcry		;;;		, no_custom
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -2194,8 +2129,7 @@ dictionary		 barbarian_peasants      ; Barbarian Peasants
 category         infantry
 class            light
 voice_type       Light_1
-;;;		soldier          barb_peasant, 60, 0, 0.7
-soldier          ALEX_barbarian_peasants, 60, 0, 0.7
+soldier          ALEX_barbarian_peasants, 15, 0, 0.7
 attributes       sea_faring, hide_improved_forest
 formation        1.2, 1.8, 2.4, 2.4, 6, horde
 stat_health      1, 0
@@ -2225,9 +2159,7 @@ dictionary		 barbarian_warband      ; Warband / "Barbarian Spearmen"
 category         infantry
 class            light
 voice_type       Light_1
-;;;		soldier          barb_infantry_longshield, 60, 0, 1.2
-soldier          ALEX_barbarian_warband, 60, 0, 1.2
-;;;		officer          barb_standard
+soldier          ALEX_barbarian_warband, 30, 0, 1.2
 attributes       sea_faring, hide_improved_forest, warcry, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 5, square
 stat_health      1, 0
@@ -2253,9 +2185,7 @@ dictionary		 barbarian_warband      ; Warband / "Barbarian Spearmen"
 category         infantry
 class            light
 voice_type       Light_1
-;;;		soldier          barb_infantry_longshield, 60, 0, 1.2
-soldier          ALEX_barbarian_warband, 60, 0, 1.2
-;;;		officer          barb_standard
+soldier          ALEX_barbarian_warband, 30, 0, 1.2
 attributes       sea_faring, hide_improved_forest, warcry		;;;		, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 5, square
 stat_health      1, 0
@@ -2283,8 +2213,7 @@ dictionary       barbarian_warlord      ; Barbarian Warlord
 category         cavalry
 class            heavy
 voice_type       General_1
-;;;		soldier          barb_noble_cavalry, 12, 0, 1
-soldier          ALEX_barbarian_warlord, 12, 0, 1
+soldier          ALEX_barbarian_warlord, 6, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
@@ -2314,7 +2243,7 @@ dictionary       barcanian_horsemen
 category         cavalry
 class            light
 voice_type       Light_1
-soldier          ALEX_barcanian_horsemen, 27, 0, 1
+soldier          ALEX_barcanian_horsemen, 25, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest
@@ -2346,7 +2275,7 @@ dictionary       companion_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_companion_cavalry, 27, 0, 1
+soldier          ALEX_companion_cavalry, 15, 0, 1
 mount			 heavy horse alex macedonian merc	;;;	heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, mercenary_unit
@@ -2377,7 +2306,7 @@ dictionary       cretan_archers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          ALEX_cretan_archers, 40, 0, 0.8
+soldier          ALEX_cretan_archers, 20, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy		;;;	, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -2407,7 +2336,7 @@ dictionary       dahae_mounted_archers
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          ALEX_dahae_mounted_archers, 27, 0, 1
+soldier          ALEX_dahae_mounted_archers, 20, 0, 1
 mount			 light horse alex macedonian merc	;;;		light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, cantabrian_circle, mercenary_unit
@@ -2436,7 +2365,7 @@ dictionary       dahae_mounted_archers
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          ALEX_dahae_mounted_archers, 27, 0, 1
+soldier          ALEX_dahae_mounted_archers, 20, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, cantabrian_circle		;;;	, mercenary_unit
@@ -2468,8 +2397,7 @@ dictionary       darius
 category         cavalry
 class            missile
 voice_type       Medium_1
-;;;		soldier          east_chariot_archer, 27, 9, 1
-soldier          ALEX_darius, 27, 9, 1
+soldier          ALEX_darius, 6, 6, 1
 mount            persian chariot
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest,  frighten_foot, cantabrian_circle
@@ -2499,7 +2427,7 @@ dictionary       greek_mercenary_infantry
 category         infantry
 class            spearmen
 voice_type       Light_1
-soldier          ALEX_greek_mercenary_infantry, 40, 0, 1
+soldier          ALEX_greek_mercenary_infantry, 25, 0, 1
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit, no_custom
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      1, 0
@@ -2525,7 +2453,7 @@ dictionary       greek_mercenary_infantry
 category         infantry
 class            spearmen
 voice_type       Light_1
-soldier          ALEX_greek_mercenary_infantry, 40, 0, 1
+soldier          ALEX_greek_mercenary_infantry, 25, 0, 1
 attributes       sea_faring, hide_forest, can_sap, hardy, no_custom
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      1, 0
@@ -2553,7 +2481,7 @@ dictionary       heavy_bactrian_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_heavy_bactrian_cavalry, 27, 0, 1
+soldier          ALEX_heavy_bactrian_cavalry, 25, 0, 1
 mount            horse cataphract
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest	;;;	, general_unit
@@ -2583,7 +2511,7 @@ dictionary       hoplites
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          ALEX_hoplites, 40, 0, 1
+soldier          ALEX_hoplites, 25, 0, 1
 attributes       sea_faring, hide_forest, can_sap
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      1, 0
@@ -2609,7 +2537,7 @@ dictionary       hoplites
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          ALEX_hoplites, 40, 0, 1
+soldier          ALEX_hoplites, 25, 0, 1
 attributes       sea_faring, hide_forest, can_sap
 formation        1, 1, 2, 2, 5, square, phalanx
 stat_health      1, 0
@@ -2635,7 +2563,7 @@ dictionary       hypaspists      ; Hypaspists
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          ALEX_hypaspists, 60, 0, 1
+soldier          ALEX_hypaspists, 20, 0, 1
 officer          greek_standard
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_forest, can_sap, hardy
@@ -2666,7 +2594,7 @@ dictionary       hyrcanian_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_hyrcanian_cavalry, 27, 0, 1
+soldier          ALEX_hyrcanian_cavalry, 25, 0, 1
 mount            heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, cantabrian_circle
@@ -2697,7 +2625,7 @@ dictionary       immortals
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          ALEX_immortals, 60, 0, 0.8
+soldier          ALEX_immortals, 50, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit
 formation        1, 1, 2, 2, 4, square
 stat_health      1, 0
@@ -2717,33 +2645,6 @@ stat_cost        1, 590, 300, 60, 90, 700	;;;1, 590, 300, 60, 90, 590
 ownership        parthia
 
 
-
-;type             Indian Chariots
-;dictionary       indian_chariots      ; Chariot Archers
-;category         cavalry
-;class            missile
-;voice_type       Medium_1
-;soldier          ALEX_indian_chariots, 27, 9, 1
-;mount            egyptian chariot
-;mount_effect     elephant -8, camel -4
-;attributes       sea_faring, hide_forest,  frighten_foot, cantabrian_circle
-;formation        8.5, 9, 15, 15, 2, square
-;stat_health      1, 2
-;stat_pri         10, 3, arrow, 110, 60, missile, archery, piercing, none, 25 ,1
-;stat_pri_attr    no
-;stat_sec         6, 5, no, 0, 0, melee, blade, slashing, none, 25 ,1
-;stat_sec_attr    launching, ap
-;stat_pri_armour  6, 1, 0, metal
-;stat_sec_armour  0, 1, flesh
-;stat_heat        -1
-;stat_ground      0, 1, -6, -1
-;stat_mental      8, disciplined, trained
-;stat_charge_dist 40
-;stat_fire_delay  0
-;stat_food        60, 300
-;stat_cost        1, 510, 290, 60, 80, 510
-;ownership        egypt
-
 ;	Based upon egyptian_chariot      ; Egyptian Chariots
 
 type             Indian Chariots
@@ -2751,7 +2652,7 @@ dictionary       indian_chariots
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_indian_chariots, 27, 9, 1
+soldier          ALEX_indian_chariots, 24, 8, 1
 mount            indian chariot
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest,  frighten_foot
@@ -2810,7 +2711,7 @@ dictionary       indian_female_archers      ; Levy Archers
 category         infantry
 class            missile
 voice_type       Female_1
-soldier          ALEX_indian_female_archers, 40, 0, 0.8
+soldier          ALEX_indian_female_archers, 30, 0, 0.8
 ;;;		Removed for Alexander	officer          egyptian_standard
 attributes       sea_faring, hide_forest, can_sap
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -2925,7 +2826,7 @@ dictionary       indian_light_cavalry      ; Indian Cavalry
 category         cavalry
 class            light
 voice_type       Medium_1
-soldier          ALEX_indian_light_cavalry, 27, 0, 1
+soldier          ALEX_indian_light_cavalry, 10, 0, 1
 mount            medium horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest
@@ -2953,7 +2854,7 @@ dictionary       indian_longbowmen
 category         infantry
 class            missile
 voice_type       Heavy_1
-soldier          ALEX_indian_longbowmen, 40, 0, 1
+soldier          ALEX_indian_longbowmen, 30, 0, 1
 officer          egyptian_standard
 attributes       sea_faring, hide_forest, can_sap, hardy
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -2980,7 +2881,7 @@ dictionary       indian_medium_cavalry
 category         cavalry
 class            heavy
 voice_type       Light_1
-soldier          ALEX_indian_medium_cavalry, 27, 0, 1
+soldier          ALEX_indian_medium_cavalry, 10, 0, 1
 mount            heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest
@@ -3034,7 +2935,7 @@ dictionary       indian_slingers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          ALEX_indian_slingers, 40, 0, 0.8
+soldier          ALEX_indian_slingers, 30, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -3059,7 +2960,7 @@ dictionary       indian_spearmen      ; Levy Spearmen
 category         infantry
 class            light
 voice_type       Light_1
-soldier          ALEX_indian_spearmen, 40, 0, 1
+soldier          ALEX_indian_spearmen, 50, 0, 1
 attributes       sea_faring, hide_forest, can_sap, mercenary_unit
 formation        1, 1, 2, 2, 5, square
 stat_health      1, 0
@@ -3088,7 +2989,7 @@ dictionary       javelin_skirmishers
 category         infantry
 class            missile
 voice_type       Heavy_1
-soldier          ALEX_javelin_skirmishers, 40, 0, 1
+soldier          ALEX_javelin_skirmishers, 20, 0, 1
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_improved_forest, hide_long_grass, can_sap
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -3117,7 +3018,7 @@ dictionary       javelin_skirmishers_2
 category         infantry
 class            missile
 voice_type       Heavy_1
-soldier          ALEX_javelin_skirmishers, 40, 0, 1
+soldier          ALEX_javelin_skirmishers, 20, 0, 1
 mount_effect     elephant +6, chariot +6
 attributes       sea_faring, hide_improved_forest, hide_long_grass, can_sap
 formation        1.2, 1.2, 2.4, 2.4, 4, square
@@ -3147,7 +3048,7 @@ dictionary       kardakes
 category         infantry
 class            spearmen
 voice_type       Light_1
-soldier          ALEX_kardakes, 60, 0, 1
+soldier          ALEX_kardakes, 50, 0, 1
 attributes       sea_faring, hide_forest, can_sap, hide_long_grass
 formation        1, 1, 2, 2, 5, square
 stat_health      1, 0
@@ -3201,9 +3102,9 @@ ownership        macedon, parthia
 type             memnon of rhodes
 dictionary       memnon_of_rhodes
 category         cavalry
-class            heavy
+class            skirmish
 voice_type       Heavy_1
-soldier          ALEX_memnon_of_rhodes, 12, 0, 1
+soldier          ALEX_memnon_of_rhodes, 6, 0, 1
 ;;;		mount            horse cataphract
 mount            light horse
 mount_effect     elephant -8, camel -4
@@ -3323,7 +3224,7 @@ dictionary       persian_scythed_chariots      ; Scythed Chariots
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_persian_scythed_chariot_crew, 9, 9, 1
+soldier          ALEX_persian_scythed_chariot_crew, 6, 6, 1
 mount            persian chariot
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest,  frighten_foot, mercenary_unit	;;;, can_run_amok
@@ -3353,7 +3254,7 @@ dictionary       phalangists
 category         infantry
 class            spearmen
 voice_type       Medium_1
-soldier          ALEX_phalangists, 60, 0, 1
+soldier          ALEX_phalangists, 30, 0, 1
 officer          greek_standard
 attributes       sea_faring, hide_forest, can_sap, hardy
 formation        1, 1, 2, 2, 5, square, phalanx
@@ -3381,9 +3282,7 @@ dictionary		 phrygian_mercenaries	;;;	warband_axe_german      ; Axemen
 category         infantry
 class            heavy
 voice_type       Light_1
-;;;		soldier          warband_axe, 40, 0, 1.2
-soldier          ALEX_phrygian_mercenaries, 40, 0, 1.2
-;;;		officer          barb_standard
+soldier          ALEX_phrygian_mercenaries, 25, 0, 1.2
 attributes       sea_faring, hide_improved_forest, warcry, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 4, square
 stat_health      1, 0
@@ -3411,7 +3310,7 @@ dictionary       prodromoi
 category         cavalry
 class            light
 voice_type       Light_1
-soldier          ALEX_prodromoi, 27, 0, 1
+soldier          ALEX_prodromoi, 10, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest
@@ -3444,7 +3343,7 @@ dictionary       rhodian_slingers      ; Rhodian Slingers
 category         infantry
 class            missile
 voice_type       Light_1
-soldier          ALEX_rhodian_slingers, 40, 0, 0.8
+soldier          ALEX_rhodian_slingers, 15, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy, no_custom	;;;	, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
@@ -3473,7 +3372,7 @@ dictionary       royal_squadron
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_royal_squadron, 54, 0, 1
+soldier          ALEX_royal_squadron, 20, 0, 1
 mount            heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, general_unit
@@ -3503,7 +3402,7 @@ dictionary       scythian_mounted_archers
 category         cavalry
 class            missile
 voice_type       Medium_1
-soldier          ALEX_scythian_mounted_archers, 27, 0, 1
+soldier          ALEX_scythian_mounted_archers, 20, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, cantabrian_circle		;;;	, mercenary_unit
@@ -3535,7 +3434,7 @@ dictionary       syrian_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_syrian_cavalry, 27, 0, 1
+soldier          ALEX_syrian_cavalry, 25, 0, 1
 mount			 medium horse alex persian merc			;;;		horse cataphract
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, mercenary_unit
@@ -3567,7 +3466,7 @@ dictionary       theban_sacred_band_spearmen
 category         infantry
 class            spearmen
 voice_type       Heavy_1
-soldier          ALEX_theban_sacred_band_spearmen, 40, 0, 1.3
+soldier          ALEX_theban_sacred_band_spearmen, 15, 0, 1.3
 ;officer		 greek_standard	;	carthaginian_standard
 attributes       sea_faring, hide_forest, can_sap, hardy
 formation        1, 1, 2, 2, 5, square, phalanx
@@ -3585,7 +3484,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 710, 135, 80, 110, 710
-ownership        greek
+ownership        greek_cities
 
 
 
@@ -3599,7 +3498,7 @@ dictionary       thessalian_cavalry
 category         cavalry
 class            heavy
 voice_type       Heavy_1
-soldier          ALEX_thessalian_cavalry, 27, 0, 1
+soldier          ALEX_thessalian_cavalry, 15, 0, 1
 mount			 heavy horse alex macedonian merc	;;;	heavy horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, hardy, mercenary_unit
@@ -3629,8 +3528,7 @@ dictionary       tribal_slingers
 category         infantry
 class            missile
 voice_type       Light_1
-;;;		soldier          ALEX_rhodian_slingers, 40, 0, 0.8
-soldier          ALEX_tribal_slingers, 40, 0, 0.8
+soldier          ALEX_tribal_slingers, 20, 0, 0.8
 attributes       sea_faring, hide_forest, can_sap, hardy, mercenary_unit
 formation        1.6, 2, 3.2, 4, 3, square
 stat_health      1, 0
