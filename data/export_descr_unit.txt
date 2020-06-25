@@ -1831,7 +1831,7 @@ dictionary       alexander
 category         cavalry
 class            heavy
 voice_type       General_1
-soldier          ALEX_alexander, 32, 0, 1
+soldier          ALEX_alexander, 31, 0, 1
 mount            generals horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy, general_unit_upgrade

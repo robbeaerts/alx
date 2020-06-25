@@ -39,7 +39,7 @@ climate default
 }
 
 
-climate highland
+climate temperate_forest_deep
 {
 	cultivated_low		../../../../alx/data/terrain/aerial_map/ground_types/medi_farm1.tga
 	cultivated_medium	../../../../alx/data/terrain/aerial_map/ground_types/medi_farm2.tga
@@ -52,7 +52,7 @@ climate highland
 	hills				../../../../alx/data/terrain/aerial_map/ground_types/texture1_hilly.tga
 	mountains_high		../../../../alx/data/terrain/aerial_map/ground_types/temperate_mountain_2.tga
 	mountains_low		../../../../alx/data/terrain/aerial_map/ground_types/temperate_mountain_2.tga
-	swamp				../../../../alx/data/terrain/aerial_map/ground_types/swamp.tga
+	swamp				../../../../alx/data/terrain/aerial_map/ground_types/temperate_hills_small.tga	../../../../alx/data/terrain/aerial_map/ground_types/temperate_hills_small.tga
 	beach				../../../../alx/data/terrain/aerial_map/ground_types/beach_north.tga
 	scorched			../../../../alx/data/terrain/aerial_map/ground_types/scorched.tga
 }
@@ -75,7 +75,7 @@ climate alpine
 	scorched			../../../../alx/data/terrain/aerial_map/ground_types/scorched.tga					../../../../alx/data/terrain/aerial_map/ground_types/scorched.tga
 }
 
-climate temperate_forest_deep
+climate highland
 {
 	cultivated_low		../../../../alx/data/terrain/aerial_map/ground_types/medi_farm3.tga				../../../../alx/data/terrain/aerial_map/ground_types/winter_farm.tga
 	cultivated_medium	../../../../alx/data/terrain/aerial_map/ground_types/medi_farm3.tga			../../../../alx/data/terrain/aerial_map/ground_types/winter_farm.tga

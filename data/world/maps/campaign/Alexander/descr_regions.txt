@@ -523,6 +523,14 @@ Macedon
 	slaves, lead
 	5
 	3
+Thessaly
+	Larissa
+	macedon
+	Thessalians
+	177 83 58
+	slaves, lead
+	5
+	3
 Sogdiana
 	Chach
 	parthia

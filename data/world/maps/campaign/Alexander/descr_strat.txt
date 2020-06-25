@@ -11,11 +11,11 @@ playable
 	dacia
 	scythia
 	egypt
+	slave
 end
 unlockable
 end
 nonplayable
-	slave
 end
 
 start_date	-336 summer
@@ -114,7 +114,7 @@ settlement
 	region Macedon
 
 	year_founded -350
-	population 4776
+	population 4982
 	plan_set default_set
 	faction_creator macedon
 	building
@@ -123,11 +123,19 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_pallisade
+		type defenses stone_wall
 	}
 	building
 	{
 		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type equestrian cavalry_barracks
 	}
 	building
 	{
@@ -144,6 +152,108 @@ settlement
 	building
 	{
 		type temple_of_hunting temple_of_hunting_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Thessaly
+
+	year_founded -350
+	population 4893
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type equestrian cavalry_barracks
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_city
+	region Attica
+
+	year_founded -350
+	population 29782
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type port_buildings shipwright
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+	building
+	{
+		type theatres odeon
+	}
+	building
+	{
+		type temple_of_governors temple_of_governors_temple
 	}
 }
 
@@ -214,61 +324,6 @@ settlement
 	building
 	{
 		type hinterland_roads roads
-	}
-}
-
-settlement
-{
-	level city
-	region Attica
-
-	year_founded -350
-	population 14100
-	plan_set default_set
-	faction_creator macedon
-	building
-	{
-		type core_building governors_palace
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type missiles practice_field
-	}
-	building
-	{
-		type market forum
-	}
-	building
-	{
-		type port_buildings port
-	}
-	building
-	{
-		type health baths
-	}
-	building
-	{
-		type hinterland_farms farms+2
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
-	building
-	{
-		type hinterland_mines mines
-	}
-	building
-	{
-		type theatres odeon
 	}
 }
 
