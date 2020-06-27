@@ -1040,8 +1040,8 @@ vegetation ALX_medi_forest
     aspect_range 0.9 1.1
     lod large_trees
     model new_black_pine
-    model new_medi_trees_winter
-    model new_medi_trees_v2_winter
+    model new_medi_trees
+    model new_medi_trees_v2
     model aleppo_pine
 }
 
@@ -1300,10 +1300,10 @@ vegetation ALX_temperate_and_cold_desert_rock
     height_range 1.0 2.0
     aspect_range 1.0 1.3
     lod trees
+    model juniper
     model rd_rock_01
     model rd_rock_02
     model rd_rock_05
-    model juniper
 }
 
 vegetation ALX_cold_desert_rock_win
@@ -1313,10 +1313,10 @@ vegetation ALX_cold_desert_rock_win
     height_range 1.0 2.0
     aspect_range 1.0 1.3
     lod trees
+    model juniper_winter
     model rd_rock_01
     model rd_rock_02
     model rd_rock_05
-    model juniper_winter
 }
 
 vegetation ALX_hot_desert_palms
@@ -1400,7 +1400,7 @@ vegetation ALX_desert_floodland_forest_win
 
 vegetation ALX_subtropical_rainforest
 {
-    layout 1024 alx_sparse_forest_layout.tga
+    layout 1024 alx_alpine_forest_layout.tga
     radius 1.1
     height_range 0.3 1.1
     aspect_range 0.7 1.6
@@ -1413,10 +1413,10 @@ vegetation ALX_subtropical_rainforest
 
 vegetation ALX_subtropical_rainforest_win
 {
-    layout 1024 alx_sparse_forest_layout.tga
+    layout 1024 alx_alpine_forest_layout.tga
     radius 1.1
     height_range 0.3 1.1
-    aspect_range 0.7 1.4
+    aspect_range 0.7 1.6
     lod large_trees
     model rainforest_tree
     model lombardy_autumn
@@ -1428,8 +1428,8 @@ vegetation ALX_subtropical_rainforest_scrub
 {
     layout 1024 alx_open_shrub_layout.tga
     radius 0
-    height_range 0.3 1.0
-    aspect_range 0.7 1.4
+    height_range 0.3 1.2
+    aspect_range 0.7 1.6
     lod large_shrubs
     model tropical_plant
     model rainforest_plants
