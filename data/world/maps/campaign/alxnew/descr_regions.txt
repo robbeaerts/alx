@@ -1,0 +1,76 @@
+;
+; regions list
+;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Macedon
+	Pella
+	macedon
+	Macedonians
+	177 58 145
+	slaves, lead
+	5
+	3
+
+Laconia
+	Sparta
+	greek_cities
+	Helots
+	244 13 24
+	slaves
+	5
+	6
+
+Euboea
+	Chalkis
+	greek_cities
+	Euboeans
+	59 174 178
+	slaves
+	5
+	6
+
+Attica
+	Athens
+	greek_cities
+	Athenians
+	58 177 106
+	slaves
+	5
+	6
+
+Boeotia
+	Thebes
+	greek_cities
+	Thebans
+	158 14 199
+	slaves
+	5
+	6
+
+Isthmus
+	Corinth
+	greek_cities
+	Corinthians
+	225 192 192
+	slaves
+	5
+	6
+
+Achaea
+	Elis
+	greek_cities
+	Achaeans
+	43 233 78
+	slaves
+	5
+	6
+
+Messenia 
+	Messene
+	greek_cities
+	Messenians
+	194 207 51
+	slaves
+	5
+	6

@@ -1,12 +1,15 @@
 <version>1.01</version>
+<texture>textures\Logo.tga
+  <path>textures</path>
+  <region>alex_logo_main_menu
+    <left>0</left>
+    <top>0</top>
+    <right>1125</right>
+    <bottom>405</bot
+  </region>
+</texture>
 <texture>textures\FE_texture1.tga
   <path>textures</path>
-  <region>rome_logo_main_menu
-    <left>0</left>
-    <top>36</top>
-    <right>489</right>
-    <bottom>204</bottom>
-  </region>
   <region>gold_bar
     <left>0</left>
     <top>206</top>
@@ -1282,11 +1285,11 @@
   <right>1024</right>
   <bottom>768</bottom>
 </fmv>
-<UI object>rome_logo_main_menu
+<UI object>alex_logo_main_menu
   <type>art</type>
   <UI region>art
-    <page>textures\FE_texture1.tga</page>
-    <region>rome_logo_main_menu</region>
+    <page>textures\Logo.tga</page>
+    <region>alex_logo_main_menu</region>
   </UI region>
 </UI object>
 <UI object>gold_bar
@@ -2230,21 +2233,21 @@
   <texture_path>guides</texture_path>
   <texture_path>textures</texture_path>
   <lpage>main_menu
-    <UI piece>main_menu_rome_logo
+    <UI piece>main_menu_alex_logo
       <identifier>UIP_EMPTY_ART</identifier>
       <Parameters>
-        <x>266</x>
-        <y>30</y>
-        <width>489</width>
-        <height>168</height>
+        <x>212</x>
+        <y>0</y>
+        <width>600</width>
+        <height>288</height>
       </Parameters>
-      <object_id>rome_logo_main_menu</object_id>
+      <object_id>alex_logo_main_menu</object_id>
     </UI piece>
     <UI piece>main_menu_singleplayer
       <identifier>UIP_MENU_BUTTON</identifier>
       <Parameters>
-        <x>255</x>
-        <y>256</y>
+        <x>45</x>
+        <y>320</y>
         <width>513</width>
         <height>38</height>
         <menu_id>new_game</menu_id>
@@ -2259,8 +2262,8 @@
     <UI piece>main_menu_continue
       <identifier>UIP_MAIN_CONTINUE</identifier>
       <Parameters>
-        <x>255</x>
-        <y>320</y>
+        <x>45</x>
+        <y>384</y>
         <width>513</width>
         <height>38</height>
         <UI text>UI_MAIN_MENU_CONTINUE
@@ -2274,8 +2277,8 @@
     <UI piece>main_menu_multiplayer
       <identifier>UIP_MENU_BUTTON</identifier>
       <Parameters>
-        <x>255</x>
-        <y>384</y>
+        <x>45</x>
+        <y>448</y>
         <width>513</width>
         <height>38</height>
         <menu_id>multiplayer</menu_id>
@@ -2290,8 +2293,8 @@
     <UI piece>main_menu_load_game
       <identifier>UIP_MENU_BUTTON</identifier>
       <Parameters>
-        <x>255</x>
-        <y>448</y>
+        <x>45</x>
+        <y>512</y>
         <width>513</width>
         <height>38</height>
         <menu_id>load_game</menu_id>
@@ -2306,8 +2309,8 @@
     <UI piece>Main_menu_options2
       <identifier>UIP_MENU_BUTTON</identifier>
       <Parameters>
-        <x>255</x>
-        <y>512</y>
+        <x>30</x>
+        <y>576</y>
         <width>513</width>
         <height>38</height>
         <menu_id>options</menu_id>
@@ -2323,7 +2326,7 @@
       <identifier>UIP_QUIT_DIALOG</identifier>
       <Parameters>
         <x>255</x>
-        <y>577</y>
+        <y>641</y>
         <width>513</width>
         <height>38</height>
         <UI text>UI_MAIN_MENU_QUIT
@@ -4262,15 +4265,15 @@
     </UI piece>
   </lpage>
   <lpage>ImpCam_loading
-    <UI piece>main_menu_rome_logo
+    <UI piece>main_menu_alex_logo
       <identifier>UIP_EMPTY_ART</identifier>
       <Parameters>
-        <x>266</x>
-        <y>30</y>
-        <width>489</width>
-        <height>168</height>
+        <x>30</x>
+        <y>0</y>
+        <width>600</width>
+        <height>288</height>
       </Parameters>
-      <object_id>rome_logo_main_menu</object_id>
+      <object_id>alex_logo_main_menu</object_id>
     </UI piece>
     <UI piece>progress_bar
       <identifier>UIP_EMPTY_ART</identifier>

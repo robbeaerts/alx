@@ -909,6 +909,20 @@ unit				rebel greek mercenary infantry
 unit				rebel hoplites
 unit				javelin skirmishers
 unit				generic rebel general					
+
+
+rebel_type 			Macedonians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Macedonians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general					
 						
 					
 rebel_type 			Lucanians	//romans_brutii
@@ -957,6 +971,90 @@ unit				cretan archers
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Corinthians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Corinthians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Euboeans	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Euboeans
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Achaeans	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Achaeans
+unit				rebel allied cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Thebans	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Thebans
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Messenians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Messenians
+unit				rebel allied cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Helots	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Helots
+unit				rebel hoplites
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
 unit				javelin skirmishers
 unit				generic rebel general					
 					

@@ -150,7 +150,7 @@ building defenses
                 large_stone_wall
             }
         }
-        large_stone_wall requires factions { carthaginian, egyptian, roman, } 
+        large_stone_wall requires factions { carthaginian, egyptian, roman, greek, eastern, } 
         {
             capability
             {
