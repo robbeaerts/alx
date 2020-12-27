@@ -50,6 +50,39 @@ description			Saxones
 ;;;		REMOVED FOR ALEXANDER		unit				barbarian rebel general
 unit				barbarian peasants
 					
+rebel_type 			Paionians	
+category			peasant_revolt
+chance				3					
+description			Paionians
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				auxiliary thracian cavalry
+unit				javelin skirmishers
+unit				barbarian rebel general
+
+rebel_type 			Byzantines
+category			peasant_revolt
+chance				3					
+description			Byzantines
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+
+
+
 rebel_type 			Gepids		//Germans
 category			peasant_revolt
 chance				3					
@@ -819,18 +852,27 @@ unit				persian peltast
 unit				persian peltast
 unit				generic rebel general
 					
-rebel_type 			Epirots		//Macedon
+rebel_type 			Epirotes		//Macedon
 category			peasant_revolt 
 chance				0					
-description			Epirots
-;;;		REMOVED FOR ALEXANDER		unit				greek peasant
-;;;		REMOVED FOR ALEXANDER		unit				greek peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek heavy peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek hoplite militia
-;;;		REMOVED FOR ALEXANDER		unit				greek cavalry
-;;;		REMOVED FOR ALEXANDER		unit				merc illyrian	
-;;;		REMOVED FOR ALEXANDER		unit				generic rebel general
-unit				barbarian peasants					
+description			Epirotes
+unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
 					
 rebel_type 			Calabrians	//romans_brutii
 category			peasant_revolt 
@@ -902,27 +944,46 @@ category			peasant_revolt
 chance				0					
 description			Thessalians
 unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Chalkidians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Chalkidians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
 unit				auxiliary thracian cavalry
 unit				cretan archers
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel hoplites
 unit				javelin skirmishers
-unit				generic rebel general					
-
+unit				javelin skirmishers
+unit				generic rebel general
 
 rebel_type 			Macedonians	//Macedon
 category			peasant_revolt 
 chance				0					
 description			Macedonians
 unit				rebel allied cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
 unit				auxiliary thracian cavalry
 unit				cretan archers
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
-unit				rebel hoplites
 unit				javelin skirmishers
-unit				generic rebel general					
+unit				javelin skirmishers
+unit				generic rebel general
 						
 					
 rebel_type 			Lucanians	//romans_brutii
@@ -946,24 +1007,57 @@ unit				kardakes
 unit				rebel persian infantry
 unit				persian peltast
 unit				persian peltast
-unit				generic rebel general					
-					
+unit				generic rebel general
+
+rebel_type 			Athamanians	//Macedon
+category			peasant_revolt 
+chance				0
+description			Athamanians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+
+rebel_type 			Phokians	//Macedon
+category			peasant_revolt 
+chance				0
+description			Phokians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+
 rebel_type 			Aetolians	//Macedon
 category			peasant_revolt 
-chance				0					
+chance				0
 description			Aetolians
-;;;		REMOVED FOR ALEXANDER		unit				greek peasant
-;;;		REMOVED FOR ALEXANDER		unit				greek peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek heavy peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek heavy peltast
-;;;		REMOVED FOR ALEXANDER		unit				greek cavalry
-;;;		REMOVED FOR ALEXANDER		unit				generic rebel general
-unit				barbarian peasants					
-					
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+
 rebel_type 			Athenians	//Macedon
 category			peasant_revolt 
-chance				0					
+chance				0
 description			Athenians
 unit				rebel allied cavalry
 unit				auxiliary thracian cavalry

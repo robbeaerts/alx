@@ -4,11 +4,12 @@ campaign		Alexander
 options +defeat_movie_bi_style
 playable
 	macedon
-	greek_cities
 end
 unlockable
 end
 nonplayable
+	greek_cities
+	germans
 	slave
 end
 
@@ -53,6 +54,34 @@ settlement
 	{
 		type defenses stone_wall
 	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+
+settlement
+{
+	level large_city
+	region Thessaly
+
+	year_founded -350
+	population 1526
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
 }
 
 settlement
@@ -86,7 +115,7 @@ settlement
 	}
 	building
 	{
-		type port_buildings shipwright
+		type port_buildings dockyard
 	}
 	building
 	{
@@ -94,7 +123,7 @@ settlement
 	}
 	building
 	{
-		type hinterland_roads roads
+		type health baths
 	}
 	building
 	{
@@ -122,6 +151,10 @@ settlement
 	building
 	{
 		type defenses large_stone_wall
+	}
+	building
+	{
+		type port_buildings port
 	}
 }
 
@@ -176,6 +209,10 @@ settlement
 	{
 		type defenses stone_wall
 	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
 }
 
 settlement
@@ -196,6 +233,110 @@ settlement
 		type defenses stone_wall
 	}
 }
+
+settlement
+{
+	level city
+	region Edonia
+
+	year_founded -350
+	population 10682
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level city
+	region Molossia
+
+	year_founded -350
+	population 6071
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level city
+	region Thesprotia
+
+	year_founded -350
+	population 6104
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Phokis
+
+	year_founded -350
+	population 2976
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level large_town
+	region Aetolia
+
+	year_founded -350
+	population 3027
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
 
 character	Alexander, named character, leader, age 20, , x 16, y 107, portrait alexander, strat_model ALEX_alexander, battle_model ALEX_alexander_general_battle 
 traits Drink 1 , Arse 1 , Brave 1 , TacticalSkill 1 , CounterSpy 1 , Handsome 1 , TouchedByTheGods 1 , Intelligent 1 , Factionleader 1 , Immortal 1 
@@ -218,6 +359,10 @@ settlement
 	{
 		type core_building governors_villa
 	}
+	building
+	{
+		type hinterland_roads roads
+	}
 }
 
 character	Cleomenes, named character, leader, age 39, , x 12, y 90
@@ -231,6 +376,64 @@ unit		hoplites				exp 0 armour 0 weapon_lvl 0
 unit		javelin skirmishers 2				exp 0 armour 0 weapon_lvl 0
 unit		javelin skirmishers 2				exp 0 armour 0 weapon_lvl 0
 siege_equipment 	sap_point 10
+
+faction	germans, balanced caesar
+denari	9000
+settlement
+{
+	level large_town
+	region Chaonia
+
+	year_founded -350
+	population 6223
+	plan_set default_set
+	faction_creator gauls
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+		creator macedon
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+		creator macedon
+	}
+}
+
+character	Prusias, named character, leader, age 39, , x 13, y 106 
+traits GoodDefender 1 , GoodAmbusher 1 , Upright 1 
+army
+unit		barbarian warlord				exp 0 armour 2 weapon_lvl 0
+unit		barbarian warband				exp 0 armour 2 weapon_lvl 0
+unit		barbarian warband				exp 0 armour 2 weapon_lvl 0
+unit		barbarian archer warband				exp 0 armour 2 weapon_lvl 0
+unit		barbarian warband				exp 0 armour 2 weapon_lvl 0
+unit		barbarian chosen swordsmen				exp 0 armour 2 weapon_lvl 0
+unit		barbarian chosen swordsmen				exp 0 armour 2 weapon_lvl 0
+unit		barbarian cavalry				exp 0 armour 2 weapon_lvl 0
+unit		barbarian cavalry				exp 0 armour 2 weapon_lvl 0
+siege_equipment 	sap_point 10
+
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

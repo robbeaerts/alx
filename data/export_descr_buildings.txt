@@ -677,7 +677,7 @@ building port_buildings
                 dockyard
             }
         }
-        dockyard requires factions { carthage, roman, } 
+        dockyard requires factions { carthage, roman, greek, eastern, } 
         {
             capability
             {

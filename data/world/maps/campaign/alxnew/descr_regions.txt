@@ -3,6 +3,44 @@
 ;
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Propontis
+	Byzantium
+	greek_cities
+	Byzantines
+	118 131 33
+	slaves
+	5
+	3
+
+Paionia
+	Bylazora
+	greek_cities
+	Paionians
+	244 55 102
+	slaves
+	5
+	3
+
+
+Edonia
+	Amphipolis
+	greek_cities
+	Chalkidians
+	203 192 18
+	slaves
+	5
+	3
+
+
+Thessaly
+	Larissa
+	greek_cities
+	Thessalians
+	177 83 58
+	slaves
+	5
+	3
+
 Macedon
 	Pella
 	macedon
@@ -11,6 +49,51 @@ Macedon
 	slaves, lead
 	5
 	3
+
+Phokis
+	Delphi
+	greek_cities
+	Phokians
+	11 37 111
+	slaves
+	5
+	6
+
+Aetolia
+	Thermon
+	greek_cities
+	Aetolians
+	13 18 244
+	slaves
+	5
+	6
+
+Thesprotia
+	Ambracia
+	greek_cities
+	Epirotes
+	34 60 132
+	slaves
+	5
+	6
+
+Chaonia
+	Pelium
+	greek_cities
+	Epirotes
+	244 216 185
+	slaves
+	5
+	6
+
+Molossia
+	Passaron
+	greek_cities
+	Epirotes
+	83 58 177
+	slaves
+	5
+	6
 
 Laconia
 	Sparta
