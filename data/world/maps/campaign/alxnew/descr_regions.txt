@@ -3,6 +3,82 @@
 ;
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Mysia
+	Dascyleum
+	greek_cities
+	Mysians
+	33 59 131
+	slaves
+	5
+	3
+
+Ionia
+	Miletus
+	greek_cities
+	Ionians
+	122 4 85
+	slaves
+	5
+	3
+
+Caria
+	Hallicarnassus
+	greek_cities
+	Carians
+	131 83 77
+	slaves
+	5
+	3
+
+Lydia
+	Sardis
+	greek_cities
+	Lydians
+	149 109 127
+	slaves
+	5
+	3
+
+Rhodos
+	Rhodes
+	greek_cities
+	Rhodians
+	131 33 77
+	slaves
+	5
+	3
+
+Lesbos
+	Mytilene
+	greek_cities
+	Lesbians
+	162 156 2
+	slaves
+	5
+	3
+
+Hellespontus
+	Maroneia
+	greek_cities
+	Maroneians
+	246 19 78
+	slaves
+	5
+	3
+
+
+Odrysia
+	Phillipopolis
+	greek_cities
+	Bessi
+	72 177 58
+	slaves
+	5
+	3
+
+
+
 Propontis
 	Byzantium
 	greek_cities
@@ -49,15 +125,6 @@ Macedon
 	slaves, lead
 	5
 	3
-
-Phokis
-	Delphi
-	greek_cities
-	Phokians
-	11 37 111
-	slaves
-	5
-	6
 
 Aetolia
 	Thermon

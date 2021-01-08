@@ -661,10 +661,10 @@ description			Breuci
 unit				barbarian peasants
 					
 					
-rebel_type 			Odrysae		//thrace
+rebel_type 			Bessi		//thrace
 category			peasant_revolt 
 chance				3					
-description			Odrysae
+description			Bessi
 ;;;		REMOVED FOR ALEXANDER		unit				merc thracian
 ;;;		REMOVED FOR ALEXANDER		unit				greek cavalry
 ;;;		REMOVED FOR ALEXANDER		unit				greek peasant
@@ -732,18 +732,9 @@ description			Paphlagonians
 ;;;		REMOVED FOR ALEXANDER		unit				east heavy cavalry
 ;;;		REMOVED FOR ALEXANDER		unit				eastern rebel general
 unit				barbarian peasants
-					
-rebel_type 			Paionians	//Macedon
-category			peasant_revolt 
-chance				0					
-description			Paionians
-unit				hyrcanian cavalry
-unit				kardakes
-unit				rebel persian infantry
-unit				persian peltast
-unit				persian peltast
-unit				generic rebel general					
-					
+
+
+
 rebel_type 			Etruscans	//romans
 category			peasant_revolt 
 chance				0					
@@ -952,6 +943,21 @@ unit				cretan archers
 unit				rebel greek mercenary infantry
 unit				rebel hoplites
 unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+rebel_type 			Maroneians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Maroneians
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				javelin skirmishers
 unit				javelin skirmishers
 unit				generic rebel general
 
@@ -1319,6 +1325,40 @@ description			Cretans
 ;;;		REMOVED FOR ALEXANDER		unit				generic rebel general
 unit				barbarian peasants					
 					
+rebel_type 			Lydians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Lydians
+unit				hyrcanian cavalry
+unit				kardakes
+unit				rebel persian infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+rebel_type 			Mysians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Mysians
+unit				hyrcanian cavalry
+unit				kardakes
+unit				rebel persian infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+rebel_type 			Carians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Carians
+unit				hyrcanian cavalry
+unit				kardakes
+unit				rebel persian infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
 rebel_type 			Judaeans	//parthia
 category			peasant_revolt 
 chance				6					

@@ -10,6 +10,7 @@ end
 nonplayable
 	greek_cities
 	germans
+	parthia
 	slave
 end
 
@@ -302,25 +303,6 @@ settlement
 settlement
 {
 	level large_town
-	region Phokis
-
-	year_founded -350
-	population 2976
-	plan_set default_set
-	faction_creator macedon
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-}
-
-settlement
-{
-	level large_town
 	region Aetolia
 
 	year_founded -350
@@ -337,12 +319,131 @@ settlement
 	}
 }
 
+settlement
+{
+	level large_town
+	region Lesbos
+
+	year_founded -350
+	population 5104
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level large_city
+	region Rhodos
+
+	year_founded -350
+	population 15209
+	plan_set default_set
+	faction_creator macedon
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses large_stone_wall
+	}
+}
+
+
 
 character	Alexander, named character, leader, age 20, , x 16, y 107, portrait alexander, strat_model ALEX_alexander, battle_model ALEX_alexander_general_battle 
 traits Drink 1 , Arse 1 , Brave 1 , TacticalSkill 1 , CounterSpy 1 , Handsome 1 , TouchedByTheGods 1 , Intelligent 1 , Factionleader 1 , Immortal 1 
 ancillaries bucephalus
 army
 unit		alexander				exp 1 armour 2 weapon_lvl 0
+
+faction	parthia, comfortable smith
+ai_do_not_attack_faction gauls
+denari	20000
+settlement
+{
+	level large_city
+	region Lydia
+
+	year_founded -350
+	population 13026
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level large_city
+	region Ionia
+
+	year_founded -350
+	population 14906
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level city
+	region Caria
+
+	year_founded -350
+	population 8013
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+character	Darius Codomanus_III, named character, leader, age 50, , x 69, y 27, battle_model ALEX_darius_general_battle 
+traits BadDefender 2 , BadInfantryGeneral 1 , GoodAdministrator 2 
+army
+unit		darius				exp 0 armour 0 weapon_lvl 0
+unit		heavy bactrian cavalry				exp 0 armour 0 weapon_lvl 0
+unit		heavy bactrian cavalry				exp 0 armour 0 weapon_lvl 0
+unit		barcanian horsemen				exp 0 armour 0 weapon_lvl 0
+unit		barcanian horsemen				exp 0 armour 0 weapon_lvl 0
+unit		barcanian horsemen				exp 0 armour 0 weapon_lvl 0
+unit		immortals				exp 0 armour 0 weapon_lvl 0
+unit		immortals				exp 0 armour 0 weapon_lvl 0
+unit		kardakes				exp 0 armour 0 weapon_lvl 0
+unit		kardakes				exp 0 armour 0 weapon_lvl 0
+unit		kardakes				exp 0 armour 0 weapon_lvl 0
+unit		kardakes				exp 0 armour 0 weapon_lvl 0
+unit		mardian archers				exp 0 armour 0 weapon_lvl 0
+unit		mardian archers				exp 0 armour 0 weapon_lvl 0
+unit		mardian archers				exp 0 armour 0 weapon_lvl 0
+siege_equipment 	sap_point 10
 
 faction	greek_cities, balanced smith
 denari	10000
