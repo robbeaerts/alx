@@ -41,7 +41,7 @@ denari	10000
 settlement
 {
 	level large_city
-	region Macedon
+	region Makedonia
 
 	year_founded -350
 	population 14978
@@ -65,7 +65,7 @@ settlement
 settlement
 {
 	level large_city
-	region Thessaly
+	region Thessalia
 
 	year_founded -350
 	population 1526
@@ -88,7 +88,7 @@ settlement
 settlement
 {
 	level huge_city
-	region Attica
+	region Attika
 
 	year_founded -350
 	population 60102
@@ -139,7 +139,7 @@ settlement
 settlement
 {
 	level huge_city
-	region Isthmus
+	region Isthmos
 
 	year_founded -350
 	population 30094
@@ -162,7 +162,7 @@ settlement
 settlement
 {
 	level large_city
-	region Boeotia
+	region Britannia_Superior
 
 	year_founded -350
 	population 26017
@@ -181,7 +181,7 @@ settlement
 settlement
 {
 	level large_town
-	region Achaea
+	region Achaia
 
 	year_founded -350
 	population 4518
@@ -196,7 +196,7 @@ settlement
 settlement
 {
 	level city
-	region Euboea
+	region Euboia
 
 	year_founded -350
 	population 9847
@@ -303,7 +303,7 @@ settlement
 settlement
 {
 	level large_town
-	region Aetolia
+	region Aitolia
 
 	year_founded -350
 	population 3027
@@ -341,7 +341,7 @@ settlement
 settlement
 {
 	level large_city
-	region Rhodos
+	region Rodos
 
 	year_founded -350
 	population 15209
@@ -409,7 +409,7 @@ settlement
 settlement
 {
 	level city
-	region Caria
+	region Karia
 
 	year_founded -350
 	population 8013
@@ -418,6 +418,25 @@ settlement
 	building
 	{
 		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+}
+
+settlement
+{
+	level large_town
+	region Lykia
+
+	year_founded -350
+	population 4891
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building governors_villa
 	}
 	building
 	{
@@ -450,8 +469,7 @@ denari	10000
 settlement
 {
 	level large_town
-	region Laconia
-
+	region Lakonia
 	year_founded -350
 	population 3981
 	plan_set default_set

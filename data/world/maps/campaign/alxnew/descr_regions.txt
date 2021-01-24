@@ -4,8 +4,116 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+Dalmatia
+	Dalminion
+	greek_cities
+	Dalmatoi
+	13 244 160
+	slaves
+	5
+	3
+
+Parthinia
+	Epidamnos
+	greek_cities
+	Parthinoi
+	204 8 180
+	slaves
+	5
+	3
+
+Ardiaia
+	Skodra
+	greek_cities
+	Ardiaioi
+	61 177 58
+	slaves
+	5
+	3
+
+Triballia
+	Palatiolon
+	greek_cities
+	Triballoi
+	107 89 177
+	slaves
+	5
+	3
+
+Dardania
+	Naissos
+	greek_cities
+	Dardanoi
+	39 67 171
+	slaves
+	5
+	3
+
+Kaukoensia
+	Petrodava
+	greek_cities
+	Kaukoensoi
+	52 13 198
+	slaves
+	5
+	3
+
+Tyragetaia
+	Clepidava
+	greek_cities
+	Tyragetai
+	223 192 126
+	slaves
+	5
+	3
+
+Kontensia
+	Piroboridava
+	greek_cities
+	Kontensoi
+	232 198 41
+	slaves
+	5
+	3
+
+Ratakensia
+	Signidava
+	greek_cities
+	Ratakensoi
+	128 42 107
+	slaves
+	5
+	3
+
+Albokensia
+	Argedava
+	greek_cities
+	Albokenses
+	230 41 232
+	slaves
+	5
+	3
+
+Buridavensia
+	Buridava
+	greek_cities
+	Bouroi
+	151 47 68
+	slaves
+	5
+	3
+
+Lykia
+	Xanthos
+	greek_cities
+	Lycians
+	68 125 43
+	slaves
+	5
+	3
+
 Mysia
-	Dascyleum
+	Daskyleon
 	greek_cities
 	Mysians
 	33 59 131
@@ -14,7 +122,7 @@ Mysia
 	3
 
 Ionia
-	Miletus
+	Miletos
 	greek_cities
 	Ionians
 	122 4 85
@@ -22,8 +130,8 @@ Ionia
 	5
 	3
 
-Caria
-	Hallicarnassus
+Karia
+	Halikarnassos
 	greek_cities
 	Carians
 	131 83 77
@@ -40,7 +148,7 @@ Lydia
 	5
 	3
 
-Rhodos
+Rodos
 	Rhodes
 	greek_cities
 	Rhodians
@@ -58,7 +166,7 @@ Lesbos
 	5
 	3
 
-Hellespontus
+Hellespontos
 	Maroneia
 	greek_cities
 	Maroneians
@@ -71,7 +179,7 @@ Hellespontus
 Odrysia
 	Phillipopolis
 	greek_cities
-	Bessi
+	Bessoi
 	72 177 58
 	slaves
 	5
@@ -80,7 +188,7 @@ Odrysia
 
 
 Propontis
-	Byzantium
+	Byzantion
 	greek_cities
 	Byzantines
 	118 131 33
@@ -91,7 +199,7 @@ Propontis
 Paionia
 	Bylazora
 	greek_cities
-	Paionians
+	Paiones
 	244 55 102
 	slaves
 	5
@@ -101,14 +209,14 @@ Paionia
 Edonia
 	Amphipolis
 	greek_cities
-	Chalkidians
+	Macedonians
 	203 192 18
 	slaves
 	5
 	3
 
 
-Thessaly
+Thessalia
 	Larissa
 	greek_cities
 	Thessalians
@@ -117,7 +225,7 @@ Thessaly
 	5
 	3
 
-Macedon
+Makedonia
 	Pella
 	macedon
 	Macedonians
@@ -126,7 +234,7 @@ Macedon
 	5
 	3
 
-Aetolia
+Aitolia
 	Thermon
 	greek_cities
 	Aetolians
@@ -136,7 +244,7 @@ Aetolia
 	6
 
 Thesprotia
-	Ambracia
+	Ambrakia
 	greek_cities
 	Epirotes
 	34 60 132
@@ -145,7 +253,7 @@ Thesprotia
 	6
 
 Chaonia
-	Pelium
+	Pelion
 	greek_cities
 	Epirotes
 	244 216 185
@@ -162,16 +270,16 @@ Molossia
 	5
 	6
 
-Laconia
+Lakonia
 	Sparta
 	greek_cities
-	Helots
+	Heilotes
 	244 13 24
 	slaves
 	5
 	6
 
-Euboea
+Euboia
 	Chalkis
 	greek_cities
 	Euboeans
@@ -180,7 +288,7 @@ Euboea
 	5
 	6
 
-Attica
+Attika
 	Athens
 	greek_cities
 	Athenians
@@ -189,7 +297,7 @@ Attica
 	5
 	6
 
-Boeotia
+Britannia_Superior ; Boiotia
 	Thebes
 	greek_cities
 	Thebans
@@ -198,7 +306,7 @@ Boeotia
 	5
 	6
 
-Isthmus
+Isthmos
 	Corinth
 	greek_cities
 	Corinthians
@@ -207,7 +315,7 @@ Isthmus
 	5
 	6
 
-Achaea
+Achaia
 	Elis
 	greek_cities
 	Achaeans

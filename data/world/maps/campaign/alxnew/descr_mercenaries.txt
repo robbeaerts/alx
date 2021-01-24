@@ -1,6 +1,6 @@
 
-pool Macedonia
-	regions Macedon
+pool Makedonia
+	regions Makedonia
 	unit merc peltast,				exp 0 cost 250 replenish 0.20 - 0.28 max 2 initial 0	restrict Greek_Cities
 	unit merc illyrian,				exp 0 cost 350 replenish 0.18 - 0.80 max 1 initial 0	restrict Greek_Cities
 	unit merc peltast,				exp 0 cost 250 replenish 0.20 - 0.28 max 2 initial 0	restrict Macedon

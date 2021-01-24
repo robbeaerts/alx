@@ -6,7 +6,7 @@
 Britannia_Inferior
 	Eburacum
 	britons
-	Brigantes
+	Macedonians
 	232 41 198
 	slaves, lead, dogs, pigs
 	5
@@ -14,7 +14,7 @@ Britannia_Inferior
 Tribus_Saxones
 	Bordesholm
 	germans
-	Saxones
+	Macedonians
 	232 41 55
 	timber, slaves, amber, dogs, pigs
 	5
@@ -22,7 +22,7 @@ Tribus_Saxones
 Locus_Gepidae
 	Domus_Dulcis_Domus
 	germans
-	Gepids
+	Macedonians
 	58 177 95
 	slaves, wild_animals, dogs, pigs
 	5
@@ -30,7 +30,7 @@ Locus_Gepidae
 Hyperboria
 	Themiskyra
 	scythia
-	Amazons
+	Macedonians
 	58 89 177
 	gold, slaves, dogs, pigs
 	5
@@ -38,7 +38,7 @@ Hyperboria
 Tribus_Alanni
 	Campus_Alanni
 	scythia
-	Alans
+	Macedonians
 	177 170 58
 	silver, slaves, dogs, pigs
 	5
@@ -46,7 +46,7 @@ Tribus_Alanni
 Tribus_Sakae
 	Campus_Sakae
 	parthia
-	Saka
+	Macedonians
 	58 177 75
 	slaves, camels
 	5
@@ -54,7 +54,7 @@ Tribus_Sakae
 Hibernia
 	Tara
 	britons
-	Hibernians
+	Macedonians
 	212 232 41
 	slaves, dogs, pigs
 	5
@@ -62,7 +62,7 @@ Hibernia
 Tribus_Sarmatae
 	Campus_Sarmatae
 	scythia
-	Sarmatians
+	Macedonians
 	177 58 83
 	slaves, dogs, pigs
 	5
@@ -70,7 +70,7 @@ Tribus_Sarmatae
 Tribus_Silurii
 	Deva
 	britons
-	Silures
+	Macedonians
 	41 232 63
 	gold, slaves, tin, lead, dogs, pigs
 	0
@@ -78,7 +78,7 @@ Tribus_Silurii
 Locus_Gothi
 	Vicus_Gothi
 	germans
-	Goths
+	Macedonians
 	203 41 232
 	silver, timber, iron, slaves, amber, dogs, pigs
 	5
@@ -86,7 +86,7 @@ Locus_Gothi
 Pripet
 	Vicus_Venedae
 	dacia
-	Venedae
+	Macedonians
 	131 33 125
 	slaves, dogs, pigs
 	5
@@ -94,7 +94,7 @@ Pripet
 Britannia_Superior
 	Londinium
 	britons
-	Iceni
+	Macedonians
 	232 41 46
 	iron, slaves, textiles, dogs, pigs
 	5
@@ -102,7 +102,7 @@ Britannia_Superior
 Germania_Inferior
 	Batavodurum
 	germans
-	Batavi
+	Macedonians
 	41 162 232
 	iron, slaves, hides, dogs, pigs
 	5
@@ -110,7 +110,7 @@ Germania_Inferior
 Tribus_Chattii
 	Damme
 	germans
-	Chatti
+	Macedonians
 	232 198 41
 	slaves, hides, dogs, pigs
 	5
@@ -118,7 +118,7 @@ Tribus_Chattii
 Regnum_Marcomannii
 	Vicus_Marcomannii
 	germans
-	Marcomanni
+	Macedonians
 	177 78 58
 	iron, slaves, wild_animals, dogs, pigs
 	5
@@ -126,7 +126,7 @@ Regnum_Marcomannii
 Belgica
 	Samarobriva
 	britons
-	Belgae
+	Macedonians
 	232 90 41
 	pottery, slaves, textiles, dogs, pigs
 	5
@@ -134,7 +134,7 @@ Belgica
 Maeotis
 	Tanais
 	scythia
-	Maeotae
+	Macedonians
 	131 89 33
 	grain, slaves, dogs, pigs
 	5
@@ -142,7 +142,7 @@ Maeotis
 Agri_Decumates
 	Mogontiacum
 	germans
-	Alamanni
+	Macedonians
 	63 232 41
 	slaves, hides
 	5
@@ -150,7 +150,7 @@ Agri_Decumates
 Scythia
 	Campus_Scythii
 	scythia
-	Roxolani
+	Macedonians
 	33 131 116
 	iron, slaves
 	5
@@ -158,7 +158,7 @@ Scythia
 Armorica
 	Condate_Redonum
 	gauls
-	Veneti
+	Macedonians
 	232 41 135
 	timber, slaves, glass, dogs, pigs
 	5
@@ -166,7 +166,7 @@ Armorica
 Germania_Superior
 	Trier
 	germans
-	Treveri
+	Macedonians
 	72 41 232
 	slaves, dogs, pigs
 	5
@@ -174,7 +174,7 @@ Germania_Superior
 Boihaemum
 	Lovosice
 	gauls
-	Boii
+	Macedonians
 	58 150 177
 	iron, slaves, dogs, pigs
 	5
@@ -182,7 +182,7 @@ Boihaemum
 Tribus_Iazyges
 	Campus_Iazyges
 	dacia
-	Iazyges
+	Macedonians
 	33 100 131
 	slaves, dogs, pigs
 	5
@@ -190,7 +190,7 @@ Tribus_Iazyges
 Central_Gaul
 	Alesia
 	gauls
-	Senones
+	Macedonians
 	31 75 37
 	iron, slaves, hides, lead, dogs, pigs
 	5
@@ -198,7 +198,7 @@ Central_Gaul
 Dacia
 	Porrolissum
 	dacia
-	Carpi
+	Macedonians
 	72 177 58
 	gold, iron, slaves, dogs, pigs
 	5
@@ -206,7 +206,7 @@ Dacia
 Noricum
 	Iuvavum
 	gauls
-	Helvetii
+	Macedonians
 	230 41 232
 	slaves, dogs, pigs
 	5
@@ -214,7 +214,7 @@ Noricum
 Tribus_Getae
 	Campus_Getae
 	thrace
-	Troglodytae
+	Macedonians
 	131 33 38
 	timber, slaves, dogs, pigs
 	5
@@ -222,7 +222,7 @@ Tribus_Getae
 Pannonia
 	Aquincum
 	dacia
-	Scordisci
+	Macedonians
 	131 61 33
 	iron, slaves, dogs, pigs
 	5
@@ -230,7 +230,7 @@ Pannonia
 Bosphorus
 	Chersonesos
 	macedon
-	Bosphorans
+	Macedonians
 	17 74 202
 	grain, slaves, dogs, pigs
 	5
@@ -238,7 +238,7 @@ Bosphorus
 Aquitania
 	Lemonum
 	gauls
-	Pictones
+	Macedonians
 	68 232 41
 	iron, wine, slaves, lead, dogs, pigs
 	5
@@ -246,7 +246,7 @@ Aquitania
 Lugdinensis
 	Lugdunum
 	gauls
-	Aedui
+	Macedonians
 	85 114 141
 	pottery, slaves, dogs, pigs
 	5
@@ -254,7 +254,7 @@ Lugdinensis
 Colchis
 	Kotais
 	armenia
-	Colchians
+	Macedonians
 	199 31 143
 	gold, slaves, dogs, pigs
 	5
@@ -262,7 +262,7 @@ Colchis
 Atropatene
 	Phraaspa
 	parthia
-	Medes
+	Macedonians
 	61 239 246
 	slaves
 	5
@@ -270,7 +270,7 @@ Atropatene
 Cisalpine_Gaul
 	Mediolanium
 	gauls
-	Insubres
+	Macedonians
 	221 232 41
 	slaves, dogs, pigs, italy
 	5
@@ -278,7 +278,7 @@ Cisalpine_Gaul
 Venetia
 	Patavium
 	gauls
-	Veneti
+	Macedonians
 	13 198 117
 	slaves, glass, textiles, dogs, pigs, italy
 	5
@@ -286,7 +286,7 @@ Venetia
 Transalpine_Gaul
 	Massilia
 	gauls
-	Vocontii
+	Macedonians
 	117 198 13
 	wine, slaves, dogs, pigs
 	5
@@ -294,7 +294,7 @@ Transalpine_Gaul
 Illyria
 	Segestica
 	greek_cities
-	Illyrians
+	Macedonians
 	58 173 177
 	gold, silver, iron, wine, slaves, dogs, pigs
 	5
@@ -302,7 +302,7 @@ Illyria
 Thrace
 	Tylis
 	thrace
-	Odrysae
+	Macedonians
 	218 246 61
 	gold, slaves, dogs, pigs
 	5
@@ -310,7 +310,7 @@ Thrace
 Gallaecia
 	Asturica
 	spain
-	Iberians
+	Macedonians
 	13 157 198
 	gold, timber, iron, slaves, tin, dogs, pigs
 	0
@@ -318,7 +318,7 @@ Gallaecia
 Armenia
 	Artaxarta
 	armenia
-	Cappadocians
+	Macedonians
 	202 61 17
 	iron, wine, slaves, dogs, pigs
 	5
@@ -326,7 +326,7 @@ Armenia
 Dalmatia
 	Salona
 	greek_cities
-	Illyrians
+	Macedonians
 	61 177 58
 	gold, timber, olive_oil, slaves, dogs, pigs
 	5
@@ -334,7 +334,7 @@ Dalmatia
 Narbonensis
 	Narbo_Martius
 	gauls
-	Volcae
+	Macedonians
 	196 13 198
 	silver, wine, slaves, textiles, dogs, pigs
 	5
@@ -342,7 +342,7 @@ Narbonensis
 Celtiberia
 	Numantia
 	gauls
-	Iberians
+	Macedonians
 	198 13 35
 	iron, slaves, lead, dogs, pigs
 	5
@@ -350,7 +350,7 @@ Celtiberia
 Liguria
 	Segesta
 	gauls
-	Ligurians
+	Macedonians
 	157 13 198
 	pottery, timber, slaves, dogs, pigs, italy
 	5
@@ -358,7 +358,7 @@ Liguria
 Pontus
 	Sinope
 	pontus
-	Paphlagonians
+	Macedonians
 	202 156 17
 	silver, timber, iron, slaves, dogs, pigs
 	5
@@ -366,7 +366,7 @@ Pontus
 Paionia
 	Bylazora
 	macedon
-	Paionians
+	Macedonians
 	131 33 100
 	slaves, dogs, pigs
 	5
@@ -374,7 +374,7 @@ Paionia
 Etruria
 	Arretium
 	macedon
-	Etruscans
+	Macedonians
 	157 198 13
 	iron, slaves, marble, dogs, pigs, italy
 	5
@@ -382,7 +382,7 @@ Etruria
 Media
 	Arsakia
 	parthia
-	Medes
+	Macedonians
 	58 167 177
 	iron, slaves, silk, elephants, camels
 	5
@@ -390,7 +390,7 @@ Media
 Taraconenis
 	Osca
 	spain
-	Iberians
+	Macedonians
 	13 196 198
 	silver, wine, slaves, marble, dogs, pigs
 	5
@@ -398,7 +398,7 @@ Taraconenis
 Umbria
 	Ariminum
 	macedon
-	Umbrians
+	Macedonians
 	198 43 13
 	pottery, olive_oil, wine, slaves, dogs, pigs, italy
 	5
@@ -406,7 +406,7 @@ Umbria
 Lusitania
 	Scallabis
 	spain
-	Iberians
+	Macedonians
 	13 198 30
 	slaves, dogs, pigs
 	5
@@ -414,7 +414,7 @@ Lusitania
 Sardinia
 	Caralis
 	carthage
-	Beronicensis
+	Macedonians
 	198 35 13
 	wine, slaves, dogs, pigs
 	5
@@ -422,7 +422,7 @@ Sardinia
 Latium
 	Rome
 	macedon
-	Latins
+	Macedonians
 	52 13 198
 	slaves, dogs, pigs, rome, italy
 	5
@@ -430,7 +430,7 @@ Latium
 Cappadocia
 	Mazaka
 	pontus
-	Cappadocians
+	Macedonians
 	177 58 148
 	slaves, lead
 	5
@@ -438,7 +438,7 @@ Cappadocia
 Propontis
 	Byzantium
 	macedon
-	Sithones
+	Macedonians
 	118 131 33
 	gold, timber, slaves, dogs, pigs
 	5
@@ -446,7 +446,7 @@ Propontis
 Bithynia
 	Nicomedia
 	macedon
-	Bithynians
+	Macedonians
 	202 17 122
 	wine, slaves, dogs
 	5
@@ -454,7 +454,7 @@ Bithynia
 Epirus
 	Apollonia
 	macedon
-	Epirots
+	Macedonians
 	83 58 177
 	slaves, dogs, pigs
 	5
@@ -462,7 +462,7 @@ Epirus
 Macedonia
 	Thessalonica
 	macedon
-	Edones
+	Macedonians
 	177 58 145
 	gold, timber, slaves, dogs, pigs
 	5
@@ -470,7 +470,7 @@ Macedonia
 Galatia
 	Ancyra
 	gauls
-	Galatians
+	Macedonians
 	17 165 202
 	slaves, textiles, dogs
 	5
@@ -478,7 +478,7 @@ Galatia
 Hispania
 	Carthago_Nova
 	spain
-	Iberians
+	Macedonians
 	187 198 13
 	silver, pottery, slaves, dogs, pigs
 	5
@@ -486,7 +486,7 @@ Hispania
 Apulia
 	Tarentum
 	macedon
-	Calabrians
+	Macedonians
 	33 196 58
 	timber, slaves, copper, dogs, pigs, italy
 	5
@@ -494,7 +494,7 @@ Apulia
 Campania
 	Capua
 	macedon
-	Campanians
+	Macedonians
 	198 13 174
 	wine, slaves, dogs, pigs, italy
 	5
@@ -502,7 +502,7 @@ Campania
 Assyria
 	Hatra
 	seleucid
-	Syrians
+	Macedonians
 	244 122 13
 	slaves, textiles, silk, elephants, camels
 	5
@@ -510,7 +510,7 @@ Assyria
 Baetica
 	Corduba
 	spain
-	Iberians
+	Macedonians
 	17 13 198
 	gold, olive_oil, wine, slaves, dogs, pigs
 	5
@@ -518,7 +518,7 @@ Baetica
 Phrygia
 	Pergamum
 	macedon
-	Lesbians
+	Macedonians
 	33 59 131
 	silver, timber, wine, slaves, textiles, dogs, pigs
 	5
@@ -526,7 +526,7 @@ Phrygia
 Cilicia
 	Tarsus
 	seleucid
-	Cilicians
+	Macedonians
 	17 202 52
 	silver, pottery, timber, slaves
 	5
@@ -534,7 +534,7 @@ Cilicia
 Thessalia
 	Larissa
 	macedon
-	Thessalians
+	Macedonians
 	177 83 58
 	slaves, dogs, pigs
 	5
@@ -542,7 +542,7 @@ Thessalia
 Baliares
 	Palma
 	spain
-	Iberians
+	Macedonians
 	41 232 225
 	wine, slaves, marble, lead, dogs, pigs
 	5
@@ -550,7 +550,7 @@ Baliares
 Bruttium
 	Croton
 	macedon
-	Lucanians
+	Macedonians
 	13 170 198
 	silver, slaves, dogs, pigs, italy
 	5
@@ -558,7 +558,7 @@ Bruttium
 Ionia
 	Sardis
 	seleucid
-	Ionians
+	Macedonians
 	149 109 127
 	silver, timber, slaves, marble, textiles, dogs, pigs
 	5
@@ -566,7 +566,7 @@ Ionia
 Babylonia
 	Seleucia
 	seleucid
-	Syrians
+	Macedonians
 	177 58 167
 	slaves, silk, elephants, camels
 	5
@@ -574,7 +574,7 @@ Babylonia
 Syria
 	Antioch
 	seleucid
-	Syrians
+	Macedonians
 	13 244 165
 	iron, wine, slaves, textiles, silk, elephants, camels
 	5
@@ -582,7 +582,7 @@ Syria
 Aetolia
 	Thermon
 	macedon
-	Aetolians
+	Macedonians
 	13 18 244
 	slaves, dogs, pigs
 	5
@@ -590,7 +590,7 @@ Aetolia
 Attica
 	Athens
 	macedon
-	Athenians
+	Macedonians
 	58 177 106
 	silver, iron, olive_oil, slaves, dogs, pigs
 	5
@@ -598,7 +598,7 @@ Attica
 Elymais
 	Susa
 	parthia
-	Elamites
+	Macedonians
 	72 58 177
 	iron, slaves, elephants, camels
 	5
@@ -606,7 +606,7 @@ Elymais
 Lycia
 	Halicarnasus
 	macedon
-	Lycians
+	Macedonians
 	131 83 77
 	olive_oil, slaves, textiles
 	5
@@ -614,7 +614,7 @@ Lycia
 Peloponnesus
 	Corinth
 	macedon
-	Achaeans
+	Macedonians
 	225 192 192
 	timber, slaves, marble, dogs, pigs
 	5
@@ -622,7 +622,7 @@ Peloponnesus
 Sicilia_Romanus
 	Messana
 	macedon
-	Sicani
+	Macedonians
 	177 142 58
 	slaves, dogs, pigs, italy
 	5
@@ -630,7 +630,7 @@ Sicilia_Romanus
 Sicilia_Poeni
 	Lilybaeum
 	carthage
-	Sicani
+	Macedonians
 	65 17 202
 	slaves, dogs, pigs, italy
 	5
@@ -638,7 +638,7 @@ Sicilia_Poeni
 Mauretania
 	Tingi
 	numidia
-	Moors
+	Macedonians
 	202 126 17
 	timber, slaves, wild_animals, copper, elephants, camels
 	5
@@ -646,7 +646,7 @@ Mauretania
 Cyprus
 	Salamis
 	macedon
-	Cypriots
+	Macedonians
 	126 144 111
 	gold, timber, slaves, purple_dye, copper
 	5
@@ -654,7 +654,7 @@ Cyprus
 Regnum_Palmyrae
 	Palmyra
 	armenia
-	Palmyrans
+	Macedonians
 	175 171 244
 	slaves, incense, camels
 	5
@@ -662,7 +662,7 @@ Regnum_Palmyrae
 Phoenicia
 	Sidon
 	seleucid
-	Phoenicians
+	Macedonians
 	33 131 128
 	timber, slaves, glass
 	5
@@ -670,7 +670,7 @@ Phoenicia
 Numidia
 	Cirta
 	numidia
-	Moors
+	Macedonians
 	17 83 202
 	timber, slaves, marble, wild_animals, elephants, camels
 	5
@@ -678,7 +678,7 @@ Numidia
 Africa
 	Carthage
 	carthage
-	Poeni
+	Macedonians
 	202 191 17
 	grain, timber, olive_oil, slaves, elephants, camels
 	5
@@ -686,7 +686,7 @@ Africa
 Sicilia_Graecus
 	Syracuse
 	macedon
-	Syracusans
+	Macedonians
 	198 178 13
 	grain, timber, slaves, dogs, pigs, sparta, italy
 	5
@@ -694,7 +694,7 @@ Sicilia_Graecus
 Laconia
 	Sparta
 	macedon
-	Helots
+	Macedonians
 	244 13 24
 	slaves, dogs, pigs, sparta
 	5
@@ -702,7 +702,7 @@ Laconia
 Coele_Syria
 	Damascus
 	seleucid
-	Syrians
+	Macedonians
 	244 203 14
 	slaves, elephants, camels
 	5
@@ -710,7 +710,7 @@ Coele_Syria
 Rhodos
 	Rhodes
 	macedon
-	Rhodians
+	Macedonians
 	131 33 77
 	timber, slaves, dogs, pigs
 	5
@@ -718,7 +718,7 @@ Rhodos
 Arabia
 	Dumatha
 	parthia
-	Nabataeans
+	Macedonians
 	13 171 244
 	slaves, camels
 	5
@@ -726,7 +726,7 @@ Arabia
 Byzacium
 	Thapsus
 	carthage
-	Poeni
+	Macedonians
 	31 202 17
 	olive_oil, slaves, elephants, camels
 	5
@@ -734,7 +734,7 @@ Byzacium
 Crete
 	Kydonia
 	macedon
-	Cretans
+	Macedonians
 	193 162 206
 	iron, slaves, purple_dye, dogs, pigs
 	5
@@ -742,7 +742,7 @@ Crete
 Judaea
 	Jerusalem
 	parthia
-	Judaeans
+	Macedonians
 	244 13 29
 	olive_oil, wine, slaves, purple_dye, camels
 	5
@@ -750,7 +750,7 @@ Judaea
 Nabataea
 	Bostra
 	parthia
-	Nabataeans
+	Macedonians
 	13 244 160
 	slaves, incense, camels
 	5
@@ -758,7 +758,7 @@ Nabataea
 Gaetulia
 	Dimmidi
 	numidia
-	Gaetuli
+	Macedonians
 	244 13 138
 	slaves, elephants, camels
 	5
@@ -766,7 +766,7 @@ Gaetulia
 Tripolitania
 	Lepcis_Magna
 	carthage
-	Poeni
+	Macedonians
 	202 17 48
 	slaves, purple_dye, wild_animals, camels
 	5
@@ -774,7 +774,7 @@ Tripolitania
 Cyrenaica
 	Cyrene
 	macedon
-	Libyans
+	Macedonians
 	244 171 13
 	timber, slaves, camels
 	5
@@ -782,7 +782,7 @@ Cyrenaica
 Nile_Delta
 	Alexandria
 	egypt
-	Libyans
+	Macedonians
 	244 13 214
 	grain, slaves, glass, textiles, camels
 	5
@@ -790,7 +790,7 @@ Nile_Delta
 Sinai
 	Petra
 	parthia
-	Nabataeans
+	Macedonians
 	35 244 13
 	slaves, incense, camels
 	5
@@ -798,7 +798,7 @@ Sinai
 Libya
 	Siwa
 	egypt
-	Libyans
+	Macedonians
 	42 232 77
 	slaves, camels
 	5
@@ -806,7 +806,7 @@ Libya
 Middle_Egypt
 	Memphis
 	egypt
-	Libyans
+	Macedonians
 	122 13 244
 	grain, slaves, incense, camels
 	5
@@ -814,7 +814,7 @@ Middle_Egypt
 Sahara
 	Nepte
 	numidia
-	Gaetuli
+	Macedonians
 	41 86 232
 	slaves, camels
 	5
@@ -822,7 +822,7 @@ Sahara
 Thebais
 	Thebes
 	egypt
-	Libyans
+	Macedonians
 	241 244 13
 	gold, slaves, wild_animals, camels
 	5
