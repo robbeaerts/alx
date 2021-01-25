@@ -4,6 +4,24 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+Peuke_Island
+	Peuke
+	greek_cities
+	Triballoi
+	131 33 38
+	slaves
+	5
+	3
+
+Pannonia
+	Pannoniopolis
+	greek_cities
+	Pannonioi
+	109 127 149
+	slaves
+	5
+	3
+
 Dalmatia
 	Dalminion
 	greek_cities
