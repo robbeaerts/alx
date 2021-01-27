@@ -1,3 +1,16 @@
+rebel_type 			Pannonioi
+category			peasant_revolt
+chance				3					
+description			Paiones
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				auxiliary thracian cavalry
+unit				javelin skirmishers
+unit				barbarian rebel general
+
+
 rebel_type 			Paiones	
 category			peasant_revolt
 chance				3					
@@ -151,6 +164,19 @@ rebel_type 			Bouroi		//illyria
 category			peasant_revolt 
 chance				0					
 description			Bouroi
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				auxiliary thracian cavalry
+unit				javelin skirmishers
+unit				barbarian rebel general
+
+
+rebel_type 			Getai		//illyria
+category			peasant_revolt 
+chance				0					
+description			Getai
 unit				barbarian naked fanatics
 unit				rebel barbarian warband
 unit				rebel barbarian warband
@@ -389,6 +415,50 @@ unit				javelin skirmishers
 unit				javelin skirmishers
 unit				javelin skirmishers
 unit				generic rebel general
+
+
+rebel_type 			Knossians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Knossians
+unit				rebel allied cavalry
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+
+
+rebel_type 			Kydonians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Knossians
+unit				rebel allied cavalry
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
 
 
 rebel_type 			Rhodians	//Macedon

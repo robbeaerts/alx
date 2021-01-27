@@ -4,6 +4,24 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+Western_Crete
+	Kydonia
+	greek_cities
+	Kydonians
+	193 162 206
+	slaves
+	5
+	3
+
+Eastern_Crete
+	Knossos
+	greek_cities
+	Knossians
+	251 210 147
+	slaves
+	5
+	3
+
 Peuke_Island
 	Peuke
 	greek_cities
@@ -14,7 +32,7 @@ Peuke_Island
 	3
 
 Pannonia
-	Pannoniopolis
+	Singidunum
 	greek_cities
 	Pannonioi
 	109 127 149
@@ -49,7 +67,25 @@ Ardiaia
 	5
 	3
 
-Triballia
+Getia
+	Helis
+	greek_cities
+	Getai
+	63 232 41
+	slaves
+	5
+	3
+
+Triballia_Anatolia
+	Oiskos
+	greek_cities
+	Triballoi
+	21 111 223
+	slaves
+	5
+	3
+
+Triballia_Hesperia
 	Palatiolon
 	greek_cities
 	Triballoi
