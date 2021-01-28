@@ -112,11 +112,29 @@ Kaukoensia
 	5
 	3
 
-Tyragetaia
+Tyragetaia_Arktaia
 	Clepidava
 	greek_cities
 	Tyragetai
 	223 192 126
+	slaves
+	5
+	3
+
+Tyragetaia_Notaia
+	Tyras
+	greek_cities
+	Tyraians
+	33 100 131
+	slaves
+	5
+	3
+
+Mikra_Skythia
+	Olbia
+	greek_cities
+	Tyraians
+	33 131 116
 	slaves
 	5
 	3
@@ -386,3 +404,21 @@ Messenia
 	slaves
 	5
 	6
+
+Pontos_Kallatios
+	Kallatis
+	greek_cities
+	Kallatians
+	85 2 188
+	slaves
+	5
+	3
+
+Pontos_Apollonios
+	Apollonia
+	greek_cities
+	Apollonians
+	244 122 13
+	slaves
+	5
+	3

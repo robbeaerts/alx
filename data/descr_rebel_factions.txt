@@ -24,6 +24,96 @@ unit				javelin skirmishers
 unit				barbarian rebel general
 
 
+rebel_type 			Tyraians
+category			peasant_revolt
+chance				3					
+description			Tyraians
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				rebel barbarian cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+
+rebel_type 			Olbians
+category			peasant_revolt
+chance				3					
+description			Olbians
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				rebel barbarian cavalry
+unit				rebel barbarian cavalry
+unit				rebel barbarian cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+
+rebel_type 			Kallatians
+category			peasant_revolt
+chance				3					
+description			Kallatians
+unit				barbarian naked fanatics
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+
+rebel_type 			Apollonians
+category			peasant_revolt
+chance				3					
+description			Apollonians
+unit				barbarian naked fanatics
+unit				barbarian naked fanatics
+unit				rebel barbarian warband
+unit				rebel barbarian cavalry
+unit				rebel allied cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				auxiliary thracian cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				javelin skirmishers
+unit				generic rebel general
+
+
 rebel_type 			Byzantines
 category			peasant_revolt
 chance				3					
