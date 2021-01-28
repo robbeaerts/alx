@@ -422,3 +422,12 @@ Pontos_Apollonios
 	slaves
 	5
 	3
+
+Tyros
+	Tyre
+	greek_cities
+	Tyrians
+	77 11 76
+	slaves
+	5
+	3

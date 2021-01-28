@@ -444,6 +444,29 @@ settlement
 	}
 }
 
+settlement
+{
+	level huge_city
+	region Tyros
+
+	year_founded -350
+	population 30291
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building imperial_palace
+	}
+	building
+	{
+		type defenses large_stone_wall
+	}
+	building
+	{
+		type port_buildings dockyard
+	}
+}
+
 character	Darius Codomanus_III, named character, leader, age 50, , x 69, y 27, battle_model ALEX_darius_general_battle 
 traits BadDefender 2 , BadInfantryGeneral 1 , GoodAdministrator 2 
 army

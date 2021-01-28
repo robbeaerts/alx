@@ -667,6 +667,22 @@ unit				persian peltast
 unit				generic rebel general
 
 
+rebel_type 			Tyrians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Tyrians
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
 ;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;non region			based
 ;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
