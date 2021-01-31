@@ -76,16 +76,7 @@ Getia
 	5
 	3
 
-Triballia_Anatolia
-	Oiskos
-	greek_cities
-	Triballoi
-	21 111 223
-	slaves
-	5
-	3
-
-Triballia_Hesperia
+Triballia
 	Palatiolon
 	greek_cities
 	Triballoi
@@ -130,10 +121,10 @@ Tyragetaia_Notaia
 	5
 	3
 
-Mikra_Skythia
+Borystene
 	Olbia
 	greek_cities
-	Tyraians
+	Olbians
 	33 131 116
 	slaves
 	5
@@ -405,7 +396,7 @@ Messenia
 	5
 	6
 
-Pontos_Kallatios
+Mikra_Skythia
 	Kallatis
 	greek_cities
 	Kallatians
@@ -428,6 +419,33 @@ Tyros
 	greek_cities
 	Tyrians
 	77 11 76
+	slaves
+	5
+	3
+
+Phrygia
+	Gordion
+	greek_cities
+	Phrygians
+	17 165 202
+	slaves
+	5
+	3
+
+Greater_Phrygia
+	Kelainai
+	greek_cities
+	Phrygians
+	163 103 179
+	slaves
+	5
+	3
+
+Paphlagonia
+	Sinope
+	greek_cities
+	Paphlagonians
+	202 156 17
 	slaves
 	5
 	3

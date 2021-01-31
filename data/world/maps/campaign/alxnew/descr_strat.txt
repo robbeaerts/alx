@@ -4,14 +4,14 @@ campaign		Alexander
 options +defeat_movie_bi_style
 playable
 	macedon
-end
-unlockable
-end
-nonplayable
 	greek_cities
 	germans
 	parthia
 	slave
+end
+unlockable
+end
+nonplayable
 end
 
 start_date	-336 summer

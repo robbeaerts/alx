@@ -683,6 +683,49 @@ unit				persian peltast
 unit				generic rebel general
 
 
+rebel_type 			Phrygians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Phrygians
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
+rebel_type 			Paphlagonians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Paphlagonians
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				persian peltast
+unit				persian peltast
+unit				rebel allied cavalry
+unit				cretan archers
+unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				javelin skirmishers
+unit				generic rebel general
+
+
 ;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;non region			based
 ;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
