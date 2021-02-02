@@ -702,6 +702,52 @@ unit				persian peltast
 unit				generic rebel general
 
 
+rebel_type 			Kappadokians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Kappadokians
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
+rebel_type 			Kilikians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Kilikians
+unit				hyrcanian cavalry
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
 rebel_type 			Elamites	//parthia
 category			peasant_revolt 
 chance				6					

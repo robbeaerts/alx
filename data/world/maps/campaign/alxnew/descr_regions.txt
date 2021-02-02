@@ -476,3 +476,21 @@ Babylonia
 	slaves
 	5
 	3
+
+Kappadokia
+	Mazaka
+	parthia
+	Kappadokians
+	230 126 23
+	slaves
+	5
+	3
+
+Kilikia
+	Tarsos
+	parthia
+	Kilikians
+	17 202 52
+	slaves
+	5
+	3
