@@ -340,21 +340,25 @@ settlement
 
 settlement
 {
-	level large_city
+	level huge_city
 	region Rodos
 
 	year_founded -350
-	population 15209
+	population 58309
 	plan_set default_set
 	faction_creator macedon
 	building
 	{
-		type core_building proconsuls_palace
+		type core_building imperial_palace
 	}
 	building
 	{
-		type defenses large_stone_wall
+		type defenses epic_stone_wall
 	}
+;	building
+;	{
+;		type port_buildings dockyard
+;	}
 }
 
 
@@ -459,11 +463,49 @@ settlement
 	}
 	building
 	{
-		type defenses large_stone_wall
+		type defenses epic_stone_wall
 	}
 	building
 	{
 		type port_buildings dockyard
+	}
+}
+
+settlement
+{
+	level huge_city
+	region Babylonia
+
+	year_founded -350
+	population 64183
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building imperial_palace
+	}
+	building
+	{
+		type defenses epic_stone_wall
+	}
+}
+
+settlement
+{
+	level huge_city
+	region Elymais
+
+	year_founded -350
+	population 61774
+	plan_set default_set
+	faction_creator parthia
+	building
+	{
+		type core_building imperial_palace
+	}
+	building
+	{
+		type defenses epic_stone_wall
 	}
 }
 

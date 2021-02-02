@@ -379,18 +379,20 @@ category			peasant_revolt
 chance				0					
 description			Ionians
 unit				hyrcanian cavalry
-unit				hyrcanian cavalry
-unit				hyrcanian cavalry
-unit				hyrcanian cavalry
 unit				kardakes
 unit				rebel persian infantry
+unit				rebel allied cavalry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel hoplites
+unit				rebel hoplites
+unit				rebel hoplites
 unit				javelin skirmishers
 unit				javelin skirmishers
+unit				javelin skirmishers
+unit				cretan archers
 unit				persian peltast
 unit				generic rebel general
 
@@ -616,6 +618,7 @@ unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				persian peltast
 unit				persian peltast
+unit				persian peltast
 unit				generic rebel general
 
 
@@ -630,6 +633,7 @@ unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				persian peltast
 unit				persian peltast
+unit				persian peltast
 unit				generic rebel general
 
 
@@ -642,6 +646,83 @@ unit				kardakes
 unit				rebel persian infantry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
+rebel_type 			Assyrians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Assyrians
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
+rebel_type 			Babylonians	//parthia
+category			peasant_revolt 
+chance				6					
+description			Babylonians
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
+unit				generic rebel general
+
+
+rebel_type 			Elamites	//parthia
+category			peasant_revolt 
+chance				6					
+description			Elamites
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				hyrcanian cavalry
+unit				kardakes
+unit				kardakes
+unit				kardakes
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel persian infantry
+unit				rebel greek mercenary infantry
+unit				persian peltast
+unit				persian peltast
 unit				persian peltast
 unit				persian peltast
 unit				generic rebel general
@@ -662,6 +743,10 @@ unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
 unit				rebel greek mercenary infantry
+unit				rebel hoplites
+unit				rebel hoplites
+unit				cretan archers
+unit				javelin skirmishers
 unit				persian peltast
 unit				persian peltast
 unit				generic rebel general

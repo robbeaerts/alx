@@ -121,7 +121,7 @@ Tyragetaia_Notaia
 	5
 	3
 
-Borystene
+Borysthenes
 	Olbia
 	greek_cities
 	Olbians
@@ -446,6 +446,33 @@ Paphlagonia
 	greek_cities
 	Paphlagonians
 	202 156 17
+	slaves
+	5
+	3
+
+Adiabene
+	Arbela
+	parthia
+	Assyrians
+	242 108 12
+	slaves
+	5
+	3
+
+Elymais
+	Susa
+	parthia
+	Elamites
+	72 58 177
+	slaves
+	5
+	3
+
+Babylonia
+	Babylon
+	parthia
+	Babylonians
+	177 58 167
 	slaves
 	5
 	3
